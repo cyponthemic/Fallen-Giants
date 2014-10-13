@@ -13,3 +13,12 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+#our-story .entry-title {
+	text-align: center;
+}
+/*
+#our-story .entry-content {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+*/
