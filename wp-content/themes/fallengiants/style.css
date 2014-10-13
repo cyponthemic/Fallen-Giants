@@ -13,18 +13,37 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
-html {
+html,body {
 	background-color: #cac3bb;
 }
-.homepage {
+.bghomepage {
+	width: 100%;
 	position: static;
 	z-index: 4;
-	height: 1000px;
+	height: 82vw;
 	background-image: url(bg/home.png);
-	background-size: auto;
+	background-size: 100%;
+	background-repeat: no-repeat;
 	background-position: center top;
-	
+	border-bottom: solid black 1px;	
 }
+
+.bgourstory {
+background-image: url(bg/ourstory.png);
+height: 632px;
+margin-bottom: -350px;
+background-position: center top;
+}
+@media only screen and (min-width:1200px) {.bgourstory {background-size: 100%;}} /* min-width 641px, medium screens */
+
+.bgourstoryend {
+background-image: url(bg/ourstoryend.png);
+height: 632px;
+margin-top: -250px;
+background-position: center top;
+}
+@media only screen and (min-width:1200px) {.bgourstoryend {background-size: 100%;}} /* min-width 641px, medium screens */
+
 .entry-title {
 padding-top: 100px;
 }

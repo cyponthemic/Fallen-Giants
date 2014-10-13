@@ -19,7 +19,7 @@ Template Name: Our story
 						<h1 class="entry-title"><?php the_title(); ?></h1>
 					</header>
 					<div class="row">
-						<div class="entry-content large-6 medium-6 small-12 medium-centered columns">
+						<div class="entry-content large-5 medium-5 small-12 medium-centered columns">
 							<?php the_content(); ?>
 						</div>
 					</div>
