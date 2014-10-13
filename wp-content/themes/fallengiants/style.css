@@ -13,12 +13,21 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+html {
+	background-color: #cac3bb;
+}
+.homepage {
+	position: static;
+	z-index: 4;
+	height: 1000px;
+	background-image: url(bg/home.png);
+	background-size: auto;
+	background-position: center top;
+	
+}
+.entry-title {
+padding-top: 100px;
+}
 #our-story .entry-title {
 	text-align: center;
 }
-/*
-#our-story .entry-content {
-	margin-left: 25%;
-	margin-right: 25%;
-}
-*/
