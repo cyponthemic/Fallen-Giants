@@ -41,10 +41,7 @@ get_header(); ?>
 </div>
 <div class="row">
 	<div id="primary" class="site-content small-12 medium-12 columns">
-		
-		<!-- OUR-WINES -->
-		<div id="content" role="main">
-		
+
 		<?php 
 		global $post;
                 $args = array(
@@ -60,8 +57,26 @@ get_header(); ?>
             get_template_part($post->post_name); ?>
 
             <?php endwhile; endif; wp_reset_postdata(); ?>
-            
-		</div>
+		<!-- OUR-WINES -->
+		<div id="content" role="main">
+		
+		<div class="row">
+	<?php
+		$args = array(
+			'post_type' => 'product',
+			'posts_per_page' => 12
+			);
+		$loop = new WP_Query( $args );
+		if ( $loop->have_posts() ) {
+			while ( $loop->have_posts() ) : $loop->the_post();
+				woocommerce_get_template_part( 'content', 'product' );
+			endwhile;
+		} else {
+			echo __( 'No products found' );
+		}
+		wp_reset_postdata();
+	?>
+</div><!--/.products-->
 	</div>
 
 

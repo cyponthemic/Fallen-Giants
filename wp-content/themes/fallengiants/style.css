@@ -47,6 +47,12 @@ background-position: center top;
 .entry-title {
 padding-top: 100px;
 }
-#our-story .entry-title {
+.entry-title {
 	text-align: center;
+}
+.btlbox {
+	text-align: center;
+}
+.btlshot{
+	max-width: 40%;
 }
