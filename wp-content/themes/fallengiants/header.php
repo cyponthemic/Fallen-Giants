@@ -16,17 +16,22 @@
 
 <body <?php body_class(); ?>>
 <div class="contain-to-grid sticky">
+<div class="header-bg hide-for-small-only"></div>
 <nav class="top-bar" data-topbar role="navigation" data-options="mobile_show_parent_link: true">
   <ul class="title-area">
     <li class="name">
-    	<!-- <a href="<?php echo home_url( '/' ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a> -->
+    	
     </li>
     <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
   </ul>
 
   <section class="top-bar-section">
+  
     <?php
       if ( has_nav_menu( 'header-menu-left' ) ) {
+      echo  '<img src="';
+      echo get_stylesheet_directory_uri();
+      echo '/bg/logo.png">';
           wp_nav_menu( array(
               'theme_location' => 'header-menu-left',
               'container' => false,
