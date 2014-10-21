@@ -16,6 +16,16 @@
 -------------------------------------------------------------- */
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+
 /* entypo */
 [class*="entypo-"]:before {
   font-family: 'entypo', sans-serif;
