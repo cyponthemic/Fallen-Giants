@@ -7,7 +7,7 @@ Template Name: Cellar Door
 ?>
 
 <div class="row">
-	<div id="primary" class="site-content small-12 medium-12 columns">
+	<div id="primary" class="site-content small-12 medium-8 medium-centered columns">
 		<div id="content" role="main">
 
 			

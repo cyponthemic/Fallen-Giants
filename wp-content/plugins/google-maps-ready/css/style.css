@@ -1,0 +1,147 @@
+/*
+Theme Name: Standard
+Theme URI: http://readyshoppingcart.com/
+Author: Ecommerce plugin Creators
+Author URI: http://readyshoppingcart.com/
+Description: This is a default theme to our plugin
+Version: 1.0
+*/
+
+.gmpErrorMsg {
+    color: red;
+    font-weight: bold;
+}
+.gmpSuccessMsg {
+    color: green;
+    font-weight: bold;
+}
+.gmpInputError {
+    border: 2px red solid !important;
+}
+.toeUpdateQtyButtonsWrapper {float:left; margin:4px 0 0 -22px;}
+    
+.toeIncDecButton {
+    width: 8px;
+    height: 7px;
+    background: url("../img/toeIncDec.png") top right no-repeat;
+    /*overflow: hidden;*/
+    /*display:block;*/
+    text-decoration:none;
+    cursor: pointer;
+    /*margin: 0 0 0 5px;*/
+    /*text-align: center;*/
+    text-indent: -9999px;
+}
+.toeIncButton {
+    margin-bottom:5px;
+    background-position: top left;
+}
+
+#wp-admin-bar-comingsoon a {
+    background-color: #FF4444;
+    color: #FFFFFF;
+}
+#wp-admin-bar-comingsoon a:hover, #wp-admin-bar-comingsoon a:focus {
+	background-color: #FF3333 !important;
+	background-image: none !important;
+}
+.toePagingElement {
+    padding: 10px;
+}
+.gmpStatusIndicator {
+    width: 32px;
+    height: 32px;
+}
+.gmpStatusIndicator.active {
+    background: url("../img/active.png") center center no-repeat !important;
+}
+.gmpStatusIndicator.disabled {
+    background: url("../img/disabled.png") center center no-repeat !important;
+}
+.gmpTblRow:hover {
+    background-color: yellowgreen;
+}
+.gmpTblHeader {
+    font-weight: bold;
+}
+.gmpTblHeader td {
+    border-bottom: 1px solid black;
+}
+/*****/
+.gmpOptTip {
+    float: right;
+    margin-top:5px;
+    margin-right: 3px;
+    width: 16px;
+    height: 16px;
+    background: url("../img/tip.png") no-repeat !important;
+}
+#gmpOptDescription {
+    position: fixed;
+    z-index: 10010;
+    display: none;
+    padding:8px;
+    border:3px solid #b9e3f0;
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    -o-border-radius:8px;
+    -khtml-border-radius:8px;
+    border-radius:8px;
+    background:#E3F4F9;
+    font-size:12px;
+}
+.gmpHidden {
+    display: none;
+}
+
+.gmpSocIconsLinks a {
+	text-decoration: none;
+}
+table.gmpTable{
+    clear:both;
+}
+table.gmpTable th,table.items th {  background: #f3f3f3;  background: -webkit-gradient(linear, 0 0, 0 bottom, from(#f3f3f3), to(#e9e9e9));
+  background: -webkit-linear-gradient(#f3f3f3, #e9e9e9);
+  background: -moz-linear-gradient(#f3f3f3, #e9e9e9);
+  background: -ms-linear-gradient(#f3f3f3, #e9e9e9);
+  background: -o-linear-gradient(#f3f3f3, #e9e9e9);
+  background: linear-gradient(#f3f3f3, #e9e9e9);
+  -pie-background: linear-gradient(#f3f3f3, #e9e9e9);
+  border-top: 1px solid #dfdfdf;
+  border-right: 1px solid #d8d8d8;
+  border-left: 1px solid #d8d8d8;
+  border-bottom: 1px solid #cbcbcb;
+  -webkit-box-shadow: #fbfbfb 1px 1px 0px inset;
+  -moz-box-shadow: #fbfbfb 1px 1px 0px inset;
+  box-shadow: #fbfbfb 1px 1px 0px inset;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  font-size: 12px;
+  height: 31px;
+  padding: 0 3px;
+  vertical-align: middle;
+  text-align: center;
+}
+table.gmpTable td,table.items td {
+    vertical-align: middle;
+    border-bottom: 1px solid #e8e8e8;
+    border-left: 1px dotted #DFDFDF;
+    border-right: 1px dotted #DFDFDF;
+    padding: 5px 12px;
+}
+table.gmpTable td,table.items td {
+    vertical-align: middle;
+    border: 1px solid #e8e8e8;
+}
+/*table.gmpTable td.description {
+	width: 100px !important;
+	word-break: break-all !important;
+	word-wrap: break-word !important;
+}*/
+
+table.gmpTable tr{background-color: #fff}
+.gmpTable th a{text-decoration: none}
+
+.mapsTable{
+    width:100%;
+}

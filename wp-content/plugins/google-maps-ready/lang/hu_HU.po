@@ -1,0 +1,1351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gmp\n"
+"POT-Creation-Date: 2014-04-11 08:55+0100\n"
+"PO-Revision-Date: 2014-04-11 10:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: Hungarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/asrob/Projects/wordpress/plugins/google-maps-"
+"ready\n"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/shortcodes/views/shortcodes.php:5
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:131
+msgid "Select"
+msgstr "Kiválasztás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:76
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:78
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules.php:8
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:13
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/log.php:8
+msgid "Type"
+msgstr "Típus"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:81
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:68
+msgid "Category"
+msgstr "Kategória"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:85
+msgid "Product"
+msgstr "Termék"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:92
+msgid "Insert"
+msgstr "Beillesztés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/controller.php:12
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapPreview.php:3
+msgid "Map not found"
+msgstr "Térkép nem található"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/controller.php:22
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/controller.php:45
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/controller.php:63
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/controller.php:29
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/controller.php:43
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/controller.php:65
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/controller.php:18
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/controller.php:32
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/deactivatePage.php:34
+msgid "Done"
+msgstr "Kész"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/controller.php:24
+msgid "Cannot save map"
+msgstr "Nem menthető térkép"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/controller.php:42
+msgid "cannot add makrkers"
+msgstr "Markerek hozzáadása nem lehetséges"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/controller.php:58
+msgid "Nothing to remove"
+msgstr "Nincs mit eltávolítani"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/models/gmap.php:52
+msgid "Empty Params"
+msgstr "Üres Params"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/allMapsContent.php:8
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerList.php:5
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:9
+msgid "Refresh"
+msgstr "Frissítés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/allMapsContent.php:24
+msgid "Id"
+msgstr "Id"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/allMapsContent.php:27
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:9
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:8
+msgid "Title"
+msgstr "Cím"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/allMapsContent.php:30
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:11
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:10
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/htmltype.php:9
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules.php:12
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:12
+msgid "Description"
+msgstr "Leírás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/allMapsContent.php:33
+msgid "Html options"
+msgstr "Html opciók"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/allMapsContent.php:36
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/editMaps.php:14
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/addMap.php:14
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/adminmenu.php:15
+msgid "Markers"
+msgstr "Markerek"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/allMapsContent.php:39
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:28
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:13
+msgid "Operations"
+msgstr "Műveletek"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/allMapsContent.php:98
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:85
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:35
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/allMapsContent.php:103
+msgid "Delete"
+msgstr "Törlés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:6
+msgid "Title For Map"
+msgstr "Cím a térképhez"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:10
+msgid "Map Name"
+msgstr "Térkép címe"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:15
+msgid "Map Description"
+msgstr "Térkép leírása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:20
+msgid "Description For Map"
+msgstr "Leírás a térképhez"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:31
+msgid "Width for map in pixels or percent"
+msgstr "Szélesség a térképhez pixelben vagy százalékban"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:35
+msgid "Map Width"
+msgstr "Térkép szélessége"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:44
+msgid "Height For Map In Pixels"
+msgstr "Magasság a térképhez pixelben"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:48
+msgid "Map Height"
+msgstr "Térkép magassága"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:56
+msgid "Enable Zoom Control In Map"
+msgstr "Zoom Control engedélyezése a térképen"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:64
+msgid "Enable Zoom/Control  Panel"
+msgstr "Zoom/Control  Panel engedélyezése"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:70
+msgid "Enable Mouse Zoom In Map"
+msgstr "Mouse Zoom engedélyezése a térképen"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:77
+msgid "Enable Mouse Zoom/Control  Panel"
+msgstr "Mouse Zoom/Control  Panel engedélyezése"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:86
+msgid "Default Zoom For Map"
+msgstr "Alapértelmezett nagyírás a térképhez"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:90
+msgid "Map Zoom"
+msgstr "Térkép Zoom"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:99
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:143
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:157
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:168
+msgid "Select Map Display Mode"
+msgstr "Térkép megjelenítési mód kiválasztása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:103
+msgid "Map Type"
+msgstr "Térkép típusa"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:111
+msgid "Select Map Display Language"
+msgstr "Térkép megjelenítés nyelvének kiválasztása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:115
+msgid "Map Language"
+msgstr "Térkép nyelve"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:123
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:127
+msgid "Map Align"
+msgstr "Térkép elhelyezkedése"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:147
+msgid "Map Margin"
+msgstr "Térkép margója"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:161
+msgid "Border Color"
+msgstr "Szegély színe"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:172
+msgid "Border Width"
+msgstr "Szegély sélessége"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:176
+msgid "Markers Infowindows Size"
+msgstr "Markerek Infowindows mérete"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:177
+msgid "In Pixels"
+msgstr "Pixelben"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:182
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:186
+msgid "InfoWindow Width"
+msgstr "InfoWindow szélessége"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:194
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/mapForm.php:198
+msgid "InfoWindow Height"
+msgstr "InfoWindow magassága"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/editMaps.php:9
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/addMap.php:9
+msgid "Add Marker"
+msgstr "Marker hozzáadása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/editMaps.php:21
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/addMap.php:21
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/roleBlock.php:13
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:23
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:45
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/settingsTab.php:45
+msgid "Save"
+msgstr "Mentés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/editMaps.php:25
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/addMap.php:25
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:27
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:89
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:39
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/editMaps.php:35
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/addMap.php:35
+msgid "Map Properties"
+msgstr "Térkép tulajdonságok"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/editMaps.php:39
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/addMap.php:39
+msgid "Save Map"
+msgstr "Térkép mentése"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/editMaps.php:87
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/gmap/views/tpl/addMap.php:76
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerList.php:29
+msgid "PRO version img "
+msgstr "PRO verzió img"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/promo_ready/controller.php:6
+msgid "Information was saved. Thank you!"
+msgstr "Az információ mentve. Köszönjük!"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/promo_ready/controller.php:28
+msgid "Information was saved. Thank you for your support!"
+msgstr "Az információ mentve. Köszönjük a támogatást!"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/promo_ready/mod.php:63
+msgid "Welcome to Ready! Ecommerce"
+msgstr "Üdvözli a Ready! Ecommerce"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/promo_ready/views/tpl/adminSendStatNote.php:10
+msgid "No, don\\'t send"
+msgstr "Nem, nincs küldés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/promo_ready/views/tpl/adminSendStatNote.php:27
+msgid "Yes, send statistics"
+msgstr "Igen, statisztika küldése"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/promo_ready/views/tpl/welcomePage.php:89
+msgid "Welcome to"
+msgstr "Üdvözöljük"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/promo_ready/views/tpl/welcomePage.php:91
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/promo_ready/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "Verzió"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/promo_ready/views/tpl/adminFooter.php:11
+msgid "Support"
+msgstr "Támogatás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/controller.php:7
+msgid "Your name field is required."
+msgstr "A név mező kötelező."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/controller.php:8
+msgid "Your website field is required."
+msgstr "A weboldal mező kötelező."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/controller.php:9
+msgid "Your e-mail field is required."
+msgstr "Az e-mail mező kötelező."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/controller.php:10
+msgid "Subject field is required."
+msgstr "Tárgy mező kötelező."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/controller.php:11
+msgid "You must select a valid category."
+msgstr "Ki kell választani egy érvényes kategóriát."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/controller.php:12
+msgid "Message field is required."
+msgstr "Üzenet mező kötelező."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/mod.php:10
+msgid "Settings"
+msgstr "Beállítások"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/adminmenu.php:13
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/optionsAdminPage.php:34
+msgid "Add New Map"
+msgstr "Új térkép hozzáadása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/adminmenu.php:14
+msgid "All Maps"
+msgstr "Összes térkép"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/adminmenu.php:16
+msgid "Marker Groups"
+msgstr "Marker csoportok"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/adminmenu.php:17
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/settingsTab.php:3
+msgid "Plugin Settings"
+msgstr "Bővítmény beállítások"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/adminmenu.php:29
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/adminmenu.php:30
+msgid "Ready! Google Maps"
+msgstr "Ready! Google Térképek"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:29
+msgid "FAQ"
+msgstr "FAQ"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:31
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:38
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:39
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:40
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:41
+msgid "-"
+msgstr "-"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:32
+msgid ""
+"It is a complete solution for full-fledged shop. Our plugin is integrated in "
+"this free WordPress theme."
+msgstr ""
+"Egy teljes megoldás a teljeskörű webshopért. A bővítményünk integrálva van "
+"ebbe az ingyenes WordPress sablonba."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:33
+msgid "To launch your shop, you need to complete 2 points:"
+msgstr "Shop elindításához a következő két dologra van szüksége:"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:35
+msgid "Set up theme and plugin"
+msgstr "Sablon és bővítmény beállítása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:36
+msgid "Add products"
+msgstr "Termék hozzáadása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:42
+msgid "- Video Tutorials"
+msgstr "- Videó oktatóanyagok"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:47
+msgid "System Information"
+msgstr "Rendszerinformáció"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:60
+msgid "Contact Us"
+msgstr "Vegye fel velünk a kapcsolatot"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:64
+msgid "Name"
+msgstr "Név"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:64
+msgid "John Doe"
+msgstr "John Doe"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:65
+msgid "E-mail"
+msgstr "E-mail"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:65
+msgid "mail@example.com"
+msgstr "mail@example.com"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:66
+msgid "Website"
+msgstr "Weboldal"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:66
+msgid "http://yoursite.com"
+msgstr "http://yoursite.com"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:67
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:8
+msgid "Subject"
+msgstr "Tárgy"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:69
+msgid "Message"
+msgstr "Üzenet"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:69
+msgid ""
+"Type your meassage here. If you have any troubles, please describe it "
+"accurately. If it`s possibe send us: (text of the errors, print screen of "
+"errors, link to the webpages where you try to insert products, and any other "
+"information)"
+msgstr ""
+"Írja be az üzenetet ide. Ha problémát észlel, kérjük írja le pontosan. Ha "
+"lehetséges, küldjön nekünk: (hibaüzenet, képernyőmentés a hibáról, link a "
+"weboldalra ahol megpróbálta létrehozni a termékeket és bármilyen egyéb "
+"információ)"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:75
+msgid "Send e-mail"
+msgstr "E-mail küldése"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:85
+msgid "News and Info"
+msgstr "Hírek és információ"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:87
+msgid "- If you like our plugin, please rate it five stars at"
+msgstr "- Ha kedveli a bővítményünket, jutalmazza 5 csilaggal "
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:88
+msgid ""
+"- If you don't, please contact us, showing us our imperfection. We'll try to "
+"improve our service."
+msgstr ""
+"- Ha nem, kérjük vegye fel velünk a kapcsolatot, megmutatva "
+"tökéletlenségünket. Fejleszteni fogjuk szolgáltatásainkat."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:89
+msgid "- New "
+msgstr "- Új"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/controller.php:7
+msgid "Ip address added"
+msgstr "IP cím hozzáadva"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/controller.php:17
+msgid "User added"
+msgstr "Felhasználó hozzáadva"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/controller.php:27
+msgid "Ip address removed"
+msgstr "IP cím eltávolítva"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/controller.php:37
+msgid "User removed"
+msgstr "Felhasználó eltávolítva"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/controller.php:47
+msgid "Role change"
+msgstr "Szerepkör váltás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/models/access.php:10
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/models/access.php:27
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/models/access.php:40
+msgid "Error writing to database"
+msgstr "Hiba az adatbázisba íráskor"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/models/access.php:14
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/models/access.php:30
+msgid "Field is empty"
+msgstr "A mező üres"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/models/access.php:52
+msgid "This Ip address already exists"
+msgstr "Ez az IP cím már létezik"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/models/access.php:56
+msgid "Wrong format Ip address"
+msgstr "Hibás IP cím formátum"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/models/access.php:65
+msgid "This User already exists"
+msgstr "Ez a felhasználó már létezik"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/models/access.php:73
+msgid "Element "
+msgstr "Elem"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/accessPage.php:9
+msgid "IP Address whitelist"
+msgstr "IP cím whitelist"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/accessPage.php:18
+msgid "Users whitelist"
+msgstr "Felhasználói whitelist"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/accessPage.php:27
+msgid "Restrict By Role"
+msgstr "Korlátozás szerepkör szerint"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/ipBlock.php:4
+msgid "IP Address"
+msgstr "IP cím"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/ipBlock.php:7
+msgid "remove IP Address"
+msgstr "IP cím eltávolítása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/ipBlock.php:20
+msgid "add Ip address"
+msgstr "IP cím hozzáadása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/userBlock.php:4
+msgid "Users"
+msgstr "Felhasználók"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/userBlock.php:7
+msgid "remove User"
+msgstr "Felhasználó eltávolítása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/access/views/tpl/userBlock.php:22
+msgid "add User"
+msgstr "Felhasználó hozzáadása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/templates/mod.php:11
+msgid "Templates"
+msgstr "Sablonok"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/templates/views/tpl/templatesTab.php:42
+msgid "Template Updated. Reload page to see results."
+msgstr "Sablon frissítve. Töltse újra az oldalt."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/templates/views/tpl/templatesTab.php:71
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/templates/views/tpl/templatesTab.php:72
+msgid "Deactivate"
+msgstr "Deakti"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/templates/views/tpl/noTemplates.php:1
+msgid "No Templates were found"
+msgstr "Nem találhatóak sablonok."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/controller.php:6
+msgid "Empty data"
+msgstr "Üres adat"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/controller.php:39
+msgid "Marker Not Found"
+msgstr "Marker nem található"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/controller.php:45
+msgid "Cannot remove marker"
+msgstr "A marker nem eltávolítható"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/controller.php:61
+msgid "Empty Marker"
+msgstr "Üres marker"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/controller.php:67
+msgid "Database Error."
+msgstr "Adatbázis hiba."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/models/marker.php:87
+msgid "Address is empty or not match"
+msgstr "A cím üres vagy nem egyezik"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:23
+msgid "<span class='gmpIcon gmpIconSuccess'></span>"
+msgstr "<span class='gmpIcon gmpIconSuccess'></span>"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:86
+msgid "Marker Name"
+msgstr "Marker neve"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:91
+msgid "Set Title as link"
+msgstr "Cím beállítása linkként"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:96
+msgid "Set Marker Title As Link"
+msgstr "Marker címének beállítása linkként"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:100
+msgid "Link For Title"
+msgstr "Link a címhez"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:114
+msgid "Choose Marker Group"
+msgstr "Marker csoport kiválasztása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:118
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:15
+msgid "Group"
+msgstr "Csoport"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:123
+msgid "Marker Description"
+msgstr "Marker leírása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:131
+msgid "Marker Icon"
+msgstr "Marker ikon"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:136
+msgid "All Icons"
+msgstr "Összes ikon"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:144
+msgid "Search For Icons"
+msgstr "Ikonok keresése"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:171
+msgid "Or Upload your icon"
+msgstr "Vagy töltsön fel egy ikont"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:183
+msgid "Marker Animation"
+msgstr "Marker animáció"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:185
+msgid "Enable Marker Animation"
+msgstr "Marker animáció engedélyezése"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:193
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:15
+msgid "Marker Address"
+msgstr "Marker címe"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:210
+msgid "Marker Coordinates"
+msgstr "Marker kordinátái"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:213
+msgid "if your don't know coordiates, leave this fields blank"
+msgstr "Ha nem tudja a kordinátákat, hagyja üresen"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:217
+msgid "Lat."
+msgstr "Szél."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerForm.php:228
+msgid "Lng."
+msgstr "Hossz."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:7
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:7
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/htmltype.php:7
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options_categories.php:7
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules_type.php:7
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:7
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/access.php:7
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/log.php:7
+msgid "ID"
+msgstr "ID"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:8
+msgid "Icon"
+msgstr "Ikon"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:18
+msgid "Creation Date"
+msgstr "Létrehozás dátuma"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:21
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Cím"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:24
+msgid "Uses On Map"
+msgstr "Felhasználások a térképen"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerTable.php:77
+msgid "No maps contain this marker"
+msgstr "Egyetlen térkép sem tartalmazza ezt a markert"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker/views/tpl/markerList.php:19
+msgid "Back To Markers List"
+msgstr "Vissza a markerek listájához"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/controller.php:14
+msgid "Nothing To Save"
+msgstr "Nincs mit menteni"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/controller.php:20
+msgid "Cannot Save Group"
+msgstr "Csoport mentése nem lehetséges"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/controller.php:28
+msgid "Group Not Found"
+msgstr "Csoport nem található"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/controller.php:34
+msgid "Cannot remove group"
+msgstr "Nem eltávolítható csoport"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:5
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:24
+msgid "Save Group"
+msgstr "Csoport mentése"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:26
+msgid "Group Title"
+msgstr "Csoport címe"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:29
+msgid "Title For Group"
+msgstr "Egy cím a csoportnak"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:34
+msgid "Group Description"
+msgstr "Csoport leírása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:37
+msgid "Description For Goup"
+msgstr "Leírás a csoporthoz"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:48
+msgid "Reset"
+msgstr "Visszaállítás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/user/mod.php:41
+msgid "User Fields"
+msgstr "Felhasználói mezők"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/user/views/user.php:45
+msgid "Password Reset Error"
+msgstr "Jelszó visszaállítás hiba"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/controller.php:6
+msgid "Plugin was activated"
+msgstr "Bővítmény engedélyezve"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/controller.php:15
+msgid "Very good! Now plugin will be updated."
+msgstr "Nagyon jó! A bővítmény frissítve lesz."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/controller.php:36
+msgid "Cannot Save Info"
+msgstr "Információ mentése nem lehetséges"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/mod.php:31
+msgid "General"
+msgstr "Általános"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:33
+msgid "Module Updated"
+msgstr "Modul frissítve"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Modul frissítési hiba"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Error module ID"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:173
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:194
+msgid "Can not contact authorization server for now."
+msgstr "Nem lehetséges a kapcsolat a szerverrel"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:174
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:195
+msgid "Please try again latter."
+msgstr "Próbálja meg később."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:175
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:196
+msgid ""
+"If problem will not stop - please contact us using this form <a href="
+"\"http://readyshoppingcart.com/contacts/\" target=\"_blank\">http://"
+"readyshoppingcart.com/contacts/</a>."
+msgstr ""
+"Ha a probléma még mindig fenn áll - kérjük lépjen kapcsolatba velünk a "
+"következő módon <a href=\"http://readyshoppingcart.com/contacts/\" target="
+"\"_blank\">http://readyshoppingcart.com/contacts/</a>."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:178
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:199
+msgid "Please enter activation key"
+msgstr "Írja be az aktivációs kulcsot"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:180
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/modules.php:201
+msgid "Empty plugin name"
+msgstr "Üres bővítmény név"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:145
+msgid "Option "
+msgstr "Opció"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:147
+msgid "Invalid option ID or Code"
+msgstr "Érvénytelen opció ID vagy kód"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:150
+msgid "Empty data to save option"
+msgstr "Üres adat a mentési opcióhoz"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:161
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:176
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:192
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:215
+msgid "Empty data to setup"
+msgstr "Üres adat a beállításhoz"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:229
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:231
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:296
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:298
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:329
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:331
+msgid "There is no default for this option and current template"
+msgstr "Nincs alapértelmezés ehhez az opcióhoz és a jelenlegi sablonhoz"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:233
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:300
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:333
+msgid "Empty option code"
+msgstr "Üres opció kód"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:271
+msgid "There are no Bg slider module installed"
+msgstr "Nincs Bg slider modul telepítve"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:310
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/models/options.php:343
+msgid "Unable to remove image"
+msgstr "Kép eltávolítása nem lehetséges"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/optionsAdminPage.php:29
+msgid "Ready! Google Maps Plugin"
+msgstr "Ready! Google Térképek bővítmény"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/settingsTab.php:12
+msgid "Send anonym statistic?"
+msgstr "Anonim statisztikák küldése?"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/settingsTab.php:17
+msgid "Marker Description window size"
+msgstr "Marker leírásának ablakmérete"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/settingsTab.php:20
+msgid "Width"
+msgstr "Szélesség"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/settingsTab.php:25
+msgid "Height"
+msgstr "Magasság"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/deactivatePage.php:3
+msgid "Ready! Ecommerce - Plugin deactivation"
+msgstr "Ready! Ecommerce - bővítmény kikapcsolás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/deactivatePage.php:7
+msgid " - plugin deactivation"
+msgstr " - bővítmény kikapcsolás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/options/views/tpl/deactivatePage.php:30
+msgid "Delete All data include Maps and Markers"
+msgstr "Összes adat törlése beleértve a térképeket és a markereket is"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/icons/controller.php:26
+msgid "Empty url"
+msgstr "Üres url"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/icons/models/icons.php:27
+msgid "Icon no found"
+msgstr "Az ikon nem található"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/icons/models/icons.php:74
+msgid "File not found"
+msgstr "A fájl nem található"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/icons/models/icons.php:79
+msgid "Cannot get image"
+msgstr "Kép megszerzése nem lehetséges"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/modules/icons/models/icons.php:90
+msgid "cannot insert to table"
+msgstr "Táblázat beillesztése nem lehetséges"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:170
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:179
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Jelölőnégyzet hozzáadása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:282
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:287
+msgid "Add Item"
+msgstr "Elem hozzáadása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Rádiógomb hozzáadása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:311
+msgid "Dimensions"
+msgstr "Méretek"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:314
+msgid "width"
+msgstr "szélesség"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:316
+msgid "height"
+msgstr "magasság"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Click to set field \"id\" and \"class\""
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:324
+msgid "Attributes"
+msgstr "Tulajdonságok"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Nincsenek beállítási lehetőségek ehhez a modulhoz"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/installer.php:303
+msgid " Page Content"
+msgstr "Oldal tartalom"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:78
+msgid "Can not create module directory. Try to set permission to "
+msgstr ""
+"Modul könyvtár létrehozása nem lehetséges. Próbálja meg beállítani a "
+"jogosultságokat"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:106
+msgid "No modules were found in XML file"
+msgstr "Nem találhatóak modulok az XML fájlban"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:110
+msgid "Invalid XML file"
+msgstr "Érvénytelen XML fájl"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:112
+msgid "No XML file were found"
+msgstr "Nem található XML fájl"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:142
+msgid "Error Activate module"
+msgstr "Hiba a modul aktiválásakor"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:271
+msgid "You need to activate"
+msgstr "Aktiválnia kell"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:273
+msgid "Just click"
+msgstr "Csak kattintson"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:274
+msgid "here"
+msgstr "itt"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:275
+msgid "and enter your activation code."
+msgstr "és írja be az aktivációs kódot."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:369
+msgid "Error Deactivation module"
+msgstr "Hiba a modul deaktiválásakor"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/modInstaller.php:390
+msgid "Error Activating module"
+msgstr "Hiba a modul aktiválásakor"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/html.php:172
+msgid "Upload"
+msgstr "Feltöltés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/frame.php:141
+msgid "You have no permissions to view this page"
+msgstr "Nincs jogosultsága a lap megtekintéséhez"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/table.php:264
+msgid "Nothig to update"
+msgstr "Nincs mit frissíteni"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/table.php:281
+msgid "Database error. Please contact your developer."
+msgstr "Adatbázis hiba. Lépjen kapcsolatva a fejlesztőjével."
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Alkalmazás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Célállomás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Ország"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Kategória"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Nincsenek kategóriák"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Márkák"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Nincsenek márkák"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Adókulcs"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Abszolút"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Nincs kiválasztva"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:184
+msgid "class"
+msgstr "class"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/fieldAdapter.php:186
+msgid "id"
+msgstr "id"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/htmltype.php:8
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options_categories.php:8
+msgid "Method"
+msgstr "Mód"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:7
+msgid "Product ID"
+msgstr "Termék ID"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:8
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/maps.php:9
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker_groups.php:9
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:9
+msgid "File name"
+msgstr "Fájl név"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:9
+msgid "Real Path To File"
+msgstr "Valós elérési út a fájlhoz"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:10
+msgid "Mime Type"
+msgstr "Mime típus"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:11
+msgid "File Size"
+msgstr "Fájlméret"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:12
+msgid "Active Download"
+msgstr "Aktív letöltés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:13
+msgid "Upload Date"
+msgstr "Feltöltés dátuma"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:14
+msgid "Download Limit"
+msgstr "Letöltési limit"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:15
+msgid "Period Limit"
+msgstr "Period limit"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:16
+msgid "Descritpion"
+msgstr "Leírás"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/files.php:17
+msgid "Type ID"
+msgstr "Típus ID"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:7
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules_type.php:8
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules.php:7
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:10
+msgid "Label"
+msgstr "Címke"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:7
+msgid "Template label"
+msgstr "Sablon címke"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:8
+msgid "E-mail Subject"
+msgstr "E-mail tárgya"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:9
+msgid "Body"
+msgstr "Törzs"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:9
+msgid "E-mail Body"
+msgstr "E-mail törzse"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:10
+msgid "Variables"
+msgstr "Változók"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:10
+msgid "Template variables. They can be used in the body and subject"
+msgstr "Sablon változók. Használhatóak a törzsben és a tárgyban"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:11
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules.php:9
+msgid "Active"
+msgstr "Aktív"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/email_templates.php:11
+msgid "If checked the notifications will be sent to receiver"
+msgstr "Ha be van jelölve az értesítések el lesznek küldve a fogadónak"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/maps.php:8
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker_groups.php:8
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:8
+msgid "Map ID"
+msgstr "Térkép ID"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/maps.php:10
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker_groups.php:10
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:10
+msgid "Description Of Map"
+msgstr "Térkép leírása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/maps.php:11
+msgid "Html Parametrs"
+msgstr "Html paraméterek"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/maps.php:12
+msgid "Create Date"
+msgstr "Létrehozás dátuma"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/maps.php:13
+msgid "Additional Params"
+msgstr "További paraméterek"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/usage.php:8
+msgid "Usage id"
+msgstr "Használati id"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/usage.php:9
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules.php:13
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:8
+msgid "Code"
+msgstr "Kód"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/usage.php:10
+msgid "Visits Count"
+msgstr "Látogatottsági számláló"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules.php:10
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:11
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:18
+msgid "Params"
+msgstr "Paraméterek"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules.php:11
+msgid "Has Tab"
+msgstr "Has Tab"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Külső bővítmény könyvtár"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:7
+msgid "User Id"
+msgstr "Felhasználó Id"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:8
+msgid "User E-mail"
+msgstr "Felhasználó E-mail"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:8
+msgid "Subscriber E-mail"
+msgstr "Feliratkozó E-mail"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:9
+msgid "User Name"
+msgstr "Felhasználói név"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:9
+msgid "User Name If User Is Registered"
+msgstr "Felhasználói név ha nem regisztrált"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:10
+msgid "Subscription Date"
+msgstr "Előfizetési dátum"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:10
+msgid "Date Of Subscription"
+msgstr "Előfizetés dátuma"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:11
+msgid "Active Subscription"
+msgstr "Aktív előfizetés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:11
+msgid "If Is Not Checked user will not get any newsletters"
+msgstr "Ha ez nincs bejelölve akkor a felhasználó nem kap hírlevelet"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:12
+msgid "Token"
+msgstr "Token"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/subscribers.php:13
+msgid "IP address"
+msgstr "IP cím"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:9
+msgid "Value"
+msgstr "Érték"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:14
+msgid "Category ID"
+msgstr "Kategória ID"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:15
+msgid "Sort Order"
+msgstr "Rendezés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/options.php:16
+msgid "Value Type"
+msgstr "Érték típusa"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:11
+msgid "X coordinate if marker(lng)"
+msgstr "Marker X koordinátája"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:12
+msgid "Y coordinate of marker(lat)"
+msgstr "Marker Y koordinátája"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:13
+msgid "Path of icon file"
+msgstr "Ikon fájl elérési útja"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:14
+msgid "Map Id"
+msgstr "Térkép Id"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:16
+msgid "Id of Marker's group"
+msgstr "Marker csoport Id"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:17
+msgid "Animation"
+msgstr "Animáció"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/marker.php:19
+msgid "Creation date"
+msgstr "Létrehozás dátuma"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/access.php:8
+msgid "Access"
+msgstr "Hozzáférés"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/access.php:9
+msgid "Type_access"
+msgstr "Type_access"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/icons.php:8
+msgid "Icon ID"
+msgstr "Ikon ID"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/icons.php:9
+msgid "Icon Title"
+msgstr "Ikon címe"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/icons.php:10
+msgid "Icon Description"
+msgstr "Ikon leírása"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/icons.php:11
+msgid "File Path"
+msgstr "Fájl elérési útja"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/log.php:9
+msgid "Data"
+msgstr "Adat"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/log.php:10
+msgid "Date created"
+msgstr "Létrehozás dátuma"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/log.php:11
+msgid "User ID"
+msgstr "Felhasználói ID"
+
+#: /home/asrob/Projects/wordpress/plugins/google-maps-ready/classes/tables/log.php:12
+msgid "Order ID"
+msgstr "Rendélés ID"

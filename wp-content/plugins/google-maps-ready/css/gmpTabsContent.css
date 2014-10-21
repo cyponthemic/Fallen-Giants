@@ -1,0 +1,1117 @@
+.btn{
+    font-size: 13px;
+}
+.gmpAddNewMapButton {     float: right;     margin: 1px 4px;   }
+.gmpBpopup {
+    top: 100px !important;
+    display: none;
+    min-width: 600px;
+    min-height: 600px;
+    border: 1px solid #edeff4;
+    border-radius: 12px;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0px 0px 26px 15px rgba(255, 255, 255, 0.79);
+}
+.gmpClosePopup {   display: block;     float: right;     margin: -16px !important;  }
+.nav.nav-tabs li a {   display: block;     line-height: 15px;  }
+.gmpNewMapContainer {   margin: 20px auto;     width: 890px;     border: 1px solid;     height: 500px; }
+.gmpOptsCon{   display:none; }
+#AddMarkerToMap {     float: left; }
+#AddMаrkerToMap {
+	float: left;
+}
+.right{     float:right !important; }
+.gmpForm { padding: 6px 6px 6px 0; }
+.gmpFormRow {
+	clear: both;
+	float: left;
+	width: 100%;
+	margin: 1px auto 0 auto;
+	border-bottom: 1px solid #edeff4;
+	min-height: 40px;
+	padding-top: 5px;
+}
+.gmpFormRow label {
+    display: block;
+    float: left;
+    width: auto;
+    font-size: 15px;
+    font-size: 13px !important;
+}
+.gmpFormRow input[type='text'],
+.gmpFormRow textarea,
+.gmpFormRow input:not(.ed_button),
+.gmpFormRow select,
+.gmpFormRow textarea {
+    float: right;
+}
+.wp-switch-editor {
+	min-height: 30px;
+}
+.gmpInputLarge{
+    width: 214px !important;
+    margin-right: 5px !important;
+}
+.gmpFormRow textarea{
+    height: 50px;
+    width: 250px;
+}
+.gmpFormRow.gmpBtnGroup {
+    float: none;
+    margin: 0 auto;
+    border:none;
+}
+
+.gmpMapHelpers{
+    float: right;
+    width: 300px;
+    margin-right: 14px;
+    min-height: 40px;
+    font-style: italic;
+    color: black;
+}
+.gmpMapHelpers li{
+    display:none;
+}
+.gmpNewMapAct.opened {
+    border-bottom: 4px solid gray;
+}
+.gmpInputSmall{
+    width:95px !important;   
+}
+.gmplft{
+    float:left;
+}
+.gmprgh{
+    float:right;   
+}
+.gmpSaveNewMap {
+    float: right;
+    width: 141px;
+    margin-bottom: 10px;
+}
+.gmp_nmap{
+   min-height: 500px;
+}
+.gmpExistsMapActions a{
+   height:32px;
+  
+}
+.gmpMapEditBtn{
+    text-align: right !important;
+}
+
+.gmpMapEditBtn:hover,.gmpMapEditBtn:focus,.gmpMapEditBtn:active,.gmpMapEditBtn.active{  
+   color:#ffffff;
+   background-color:#ed9c28 !important;
+   border-color:#d58512;
+}
+.gmpMapRemoveBtn:hover,.gmpMapRemoveBtn:focus,.gmpMapRemoveBtn:active,.gmpMapRemoveBtn.active{  
+    color:#ffffff;
+    background-color:#d2322d !important;
+    border-color:#ac2925;
+}
+
+a{
+    cursor:pointer;
+}
+.gmpMItem {
+    padding: 5px;
+}
+.gmpMapRemoveBtn{
+    text-align: right !important;
+}
+.gmpNewMapContent {
+    float: left;
+    width: 100%;
+    margin-top: 34px;
+}
+
+/*
+*reconstruct
+*/
+#gmpAddNewMap {
+    float: left;
+    padding: 0 10px;
+    background-color: white;
+    width:100%;
+}
+.gmpNewMapOptsList li {
+    display: block;
+    float: left;
+    margin: 0 5px;
+}
+.gmpNewMapOptsList {
+    float: left;
+}
+.newMapForm .gmpFormRow label{
+    width:auto;
+}
+.gmpFormLabel {
+    float: left;
+    display: block;
+}
+.gmpNewMapForms {
+    clear:both;
+    float: left;
+    width:100%;
+	/*border: 1px solid #61b5fe;*/
+	position: relative;
+	/*height: 1300px;*/
+}
+/*Gradient vorder for edit map forms, maybe it will be beautifull .......*/
+.gmpNewMapForms { 
+	position: relative; 
+	border-top: 1px solid #61b5fe; } 
+.gmpNewMapForms:before, .gmpNewMapForms:after { 
+	content: ""; 
+	position: absolute; 
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#61b5fe), to(transparent)); 
+	background-image: -webkit-linear-gradient(#61b5fe, transparent); 
+	background-image: -moz-linear-gradient(#61b5fe, transparent); 
+	background-image: -o-linear-gradient(#61b5fe, transparent); 
+	background-image: linear-gradient(#61b5fe, transparent); 
+	top: -1px; 
+	bottom: -1px; 
+	width: 1px; 
+}
+.gmpNewMapForms:before { left: -1px; }
+.gmpNewMapForms:after { right: -1px; }
+/*****/
+.newMapForm{
+    float: left;
+    margin-bottom: 20px;
+}
+.newMapForm.gmpMapProperties{
+    width:273px;
+}
+/*
+    TEMP
+*/
+.newMapForm{
+}
+
+.gmpIconItem {
+    float: left;
+    width: 21px;
+    margin: 4px;
+    text-align:center;
+}
+.gmpIconPreview {
+    width: 20px;
+    display: block;
+    margin-bottom:1px;
+}
+.gmpIconsPreviewFCH {
+    width: 310px;
+    background-color: #edeff4;
+    float: left;
+    border-radius: 5px;
+    padding: 5px;
+    max-height: 200px;
+    overflow: auto;
+    min-height: 100px;
+}
+.gmpMarkericonOptions {
+    clear: both;
+    float: left;
+	width: 100%;
+	padding-top: 26px;
+}
+.gmpMarkericonOptions h3 {
+    margin: 0 0 -10px 0;
+}
+.markerOptsCon {
+    float: left;
+    width:100%;
+}
+.imgFileCon {
+    float: left;
+    height: 33px;
+}
+.gmpFileUpRes {
+    float: right;
+    width: 190px;
+    text-align: right;
+}
+.gmpUplBtn {
+    float: left;
+}
+.gmlLoadFrom {
+    width: 312px;
+}
+.gmpDownloadUrlCon {
+    float: left;
+}
+.downloadFileResp {
+    float: right;
+    width: 96px;
+    height: 25px;
+    line-height: 26px;
+}
+#gmpIconUrlToDown {
+    float: left;
+}
+#gmpDownloadIconFormUrl{
+    float:left;
+    padding: 3px 7px;
+}
+.gmpMapContainer {
+    /*float: left;
+    width: 53%;*/
+    /*border: 1px solid #C0C5D1;*/
+    margin: 0 0 0 8px;
+    padding: 0 0 0 437px;
+}
+#gmpAddNewMapForm{
+    float:left;width:100%;
+}
+.gmpRadioBr{
+    clear:both;
+}
+.gmpLoadMap {
+    float: left;
+}
+.gmpNewMapPreview {
+    float: left;
+    width: 100%;
+    height: 430px;
+}
+#newMapSubmitBtn {
+    margin-top: -41px;
+    position: absolute;
+    right: 34px;
+}
+#gmpNewMapMsg {
+    float: right;
+    width: 28px;
+    height: 28px;
+    margin: -30px -39px 0 4px;
+}
+.gmpMapOptionsTab {
+    float: left;
+    margin: 5px 0px 0px 0px;
+}
+.gmpPre{
+    clear:both;
+    margin: 10px 0 0 10px;
+    min-height: 60px;
+    padding: 0 3px 2px;
+    font-family: Monaco,Menlo,Consolas,"Courier New",monospace;
+    font-size: 12px;
+    color: #333;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    display: block;
+    padding: 9.5px;
+    font-size: 13px;
+    line-height: 20px;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre;
+    white-space: pre-wrap;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0,0,0,0.15);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.gmpTable{
+    margin-bottom: 10px;
+}
+.gmpTableThMini{
+   width: 50px;
+}
+.gmpTableThSmall {
+    width: 80px;
+}
+.gmpTableThLarge{
+    width:200px;
+}
+.gmpTableThMax{
+    width:300px;
+}
+#gmpAddressLoader {
+    display: block;
+    float: right;
+    width: 25px;
+    height: 25px;
+}
+.gmpAutocompleteArrow {
+    display: block !important;
+    float: left;
+    height: 29px !important;
+    width: 28px !important;
+    margin: -1px 9px 0 -5px !important;
+    background-repeat: no-repeat;
+    background-position: left;
+    position: relative;
+    padding: 0 31px 0 0 !important;
+}
+.gmpDown{
+    background-image: url(../img/arrow-down.png) !important;
+}
+.gmpUp{
+	background-image: url(../img/arrow-up.png) !important;
+}        
+.gmpAddressAutocomplete {
+	display: none;
+	float: left;
+	width: 100.5%;
+	position: relative;
+}
+.gmpAddressAutocomplete ul{
+    z-index: 9999;
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    overflow-y: auto;
+    border-bottom: 1px solid #2956A7;
+    border-right: 1px solid #2956A7;
+    border-left: 1px solid #2956A7;
+    max-height: 250px;
+    margin: 0px 0px 0px 0px;
+    max-width: 342px;
+}
+.gmpAddressAutocomplete li {
+    display: block;
+    padding: 5px 0 7px 7px;
+    cursor: pointer;
+    border-bottom: 1px solid rgb(175, 173, 192);
+    border-radius: 0px;
+    margin: 0;
+}
+.gmpAddressAutocomplete ul{
+
+}
+.gmpAddressAutocomplete li:hover { 
+    color: white;
+    border: 1px solid white;
+    background-color: #edeff4;
+}
+.gmpEditMarkerOpts{
+    /*display:none;*/
+}
+.gmpAddMarkerOpts{
+    /*display:none ;*/
+}
+.tab-pane{
+    display:none;
+}
+.tab-pane.active{
+    display:block;
+}
+.gmpNewMapTabs {
+    float:left;
+    width: 437px;
+    overflow: hidden;
+    margin-left: -442px;
+    margin-top:-430px;
+	
+    /*
+	position: absolute;
+	top: 0;
+	left: 0;
+    */
+}
+
+/*Gradient vorder for edit map forms, maybe it will be beautifull .......*/
+.gmpNewMapTabs { 
+	border-width: 0 1px 0 0; 
+	border-style: solid; 
+	-webkit-border-image: -webkit-gradient(linear, 0 0, 0 100%, from(#61b5fe), to(rgba(0, 0, 0, 0))) 1 100%; 
+	-webkit-border-image: -webkit-linear-gradient(#61b5fe, rgba(0, 0, 0, 0)) 1 100%; 
+	-moz-border-image: -moz-linear-gradient(#61b5fe, rgba(0, 0, 0, 0)) 1 100%; 
+	-o-border-image: -o-linear-gradient(#61b5fe, rgba(0, 0, 0, 0)) 1 100%; 
+	border-image: linear-gradient(to bottom, #61b5fe, rgba(0, 0, 0, 0)) 1 100%;
+}
+/*****/
+
+.gmpNewMapOptsTab li.ui-state-active > a {
+    color:white !important;
+    background-color: rgba(86, 177, 255, 0.92) !important;
+}
+.gmpNewMapOptsTab a{
+    background-repeat: no-repeat;
+    background-position: left center;    
+}
+
+.gmp-tab-details {
+    float: left;
+}
+.gmp-tab-btns.marker-tab-btns {
+    float: left;
+}
+.gmp-tabs-btns{
+   display:inline-block;
+   float:right;
+}
+span.gmp-tabs-btns button {
+    margin: 0 3px;
+}
+li.active .gmp-tabs-data{
+    color: white !important;
+    background-color: rgba(86, 177, 255, 0.92) !important;
+}
+#gmpAdminOptionsTabs li>a{
+    background-color:#F1F1F1;
+    border: 1px solid skyblue;
+    border-bottom: none;
+}
+.autoCompRes{
+    background-color: transparent !important;
+    border: none !important;
+}
+.autoCompRes:hover,.autoCompRes:focus{
+    text-decoration: none;
+}
+#gmpTabForNewMapMarkerOpts {
+    padding: 4px 3px;
+}
+#gmpTabForNewMapMarkerOpts {
+    text-decoration: none !important;
+    width: 440px;
+    margin-right: 5px;
+}
+.gmpTabElemSimpTxt {
+    min-width: 74px;
+    display: inline-block;
+    text-align: center;
+    padding: 0 10px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.gmapMarkerFormControlButtons {
+	clear: both;
+	float: left;
+}
+.gmapMarkerFormControlButtons a{
+    display:block;
+    margin: 0 8px;
+}
+.removeMarkerFromForm {
+float: right;
+}
+#gmpEditedMarkerLocalId {
+    float: left;
+}
+#gmpTabForNewMapOpts {
+    margin-right: 40px;
+}
+#gmpAdminOptionsTabs .tab-pane {
+    /*padding-top: 12px;*/
+    background-color:#E5EAF5;
+    float: left;
+    width: 100%;
+}
+#gmpAdminOptionsTabs li.active>a{
+    background-color:#E5EAF5;
+    border: 1px solid #D8D8D8;
+    border-bottom: none;
+}
+#gmpAdminOptionsTabs li > a:focus {
+	outline: none;
+}
+.gmpMapsTableListLoading{
+    background:url(../img/ajax-loaderBIG.gif) center no-repeat ;
+    width: 100%;
+    min-height: 500px;
+}
+div.refreshMapsList {
+    float: right;
+    margin: 5px 0;
+}
+#gmpHideNewMapPreview{
+    margin:5px 0;
+}
+#gmpSaveNewMap {
+    
+}
+.gmpMapOperationsMessages {
+    float: left;
+}
+#newMapSubmitBtn {
+    margin-top: -21px;
+    position: absolute;
+    /*right: 72px;
+    width: 450px;*/
+}
+.btn.paginate_button{
+  
+}
+.gmpMTablecon {
+    clear: both;
+}
+.dataTables_wrapper {
+    clear: both;
+}#GmpTableGroups {
+    width: 100%;
+}
+/*
+    datatable buttons paging
+*/
+.paging_full_numbers a{
+    display: inline-block;
+    margin:0 5px;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    color: #ffffff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+.paging_full_numbers a:hover{
+    color: #ffffff;
+    background-color: #39b3d7;
+    border-color: #269abc;
+}
+.gmpSingleBtnContainer {
+    float: left;
+    padding: 3px 2px 0 0;
+    margin-right: 40px;
+}
+.nav.nav-tabs.gmpMainTab {
+    float: left;
+}
+ul.gmpMainTab>li.gmpAddNewMap{
+    display:none;
+}
+.paging_full_numbers a.paginate_button_disabled{
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    background:none;
+    color:gray;
+}
+.paging_full_numbers a.paginate_active{
+    color: #333333;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    
+}
+.gmpExistsMapOperations {
+    float: left;
+    margin-top: -23px;
+    padding-top: 4px;
+}
+.gmpNewMapOperations {
+    float: left;
+}
+.editMapNameShowing{
+    font-size: 15px;
+    font-weight: bold;
+    color: #31708f;
+    /*float: right;*/
+    min-width: 200px;
+    line-height: 32px;
+}
+.gmpEditMaps {
+    display: none !important;
+}
+#gmpSelectedIcon_msdd,#gmpSelectedIcon_edit_msdd,#gmpDropDownIconsSelect_MarkerEdit{
+    width:100px !important;
+}
+.gmpListActBtn{
+    
+}
+.gmpIcon{
+    display: inline-block;
+    width: 12px;
+    height: 18px;
+    margin-top: 1px;
+    line-height: 19px;
+    vertical-align: text-top;
+    background-repeat: no-repeat;
+    margin-left: -5px;
+    margin-right: 3px;
+}
+.gmpIconEdit{
+   background-image: url(../img/glyphicons-halflings-white.png) !important;
+   background-position: -1px -69px;
+}
+.gmpIconRemove{
+   background-image: url(../img/glyphicons-halflings-white.png) !important;
+   background-position: -314px 2px;
+}
+.gmpIcongmpMarkerList{
+       background-image: url(../img/glyphicons-halflings.png) !important;
+      background-position: -26px -69px;
+}
+.gmpMarkerListsOPerations {
+    float: right;
+    margin: 2px 8px 5px 0;
+}
+.gmpIconRefresh{
+      background-image: url(../img/glyphicons-halflings-white.png) !important;
+      background-position: -241px -21px;
+}
+.gmpIconUpload{
+    background-image: url(../img/glyphicons-halflings-white.png) !important;
+    background-position: -289px -142px;
+}
+.gmpIconSuccess{
+    background-image: url(../img/glyphicons-halflings-white.png) !important;
+    background-position: -289px 1px;    
+}
+.gmpIconReset{
+    background-image: url(../img/glyphicons-halflings-white.png) !important;
+   background-position: -314px 1px;   
+}
+.gmpIcongmpMarkerGroups{
+     background-image: url(../img/glyphicons-halflings.png) !important;
+     background-position: -240px 1px;
+}
+.gmpIconAdd{
+    background-image: url(../img/glyphicons-halflings-white.png) !important;
+    background-position: -1px -94px;
+}
+.gmpIcongmpAddNewMap{
+    background-image: url(../img/glyphicons-halflings-white.png) !important;
+    background-position: -408px -94px;
+}
+.gmpIcongmpAllMaps{
+    background-image: url(../img/glyphicons-halflings.png) !important;
+    background-position: -337px -47px;
+}
+.gmpNewMapOptsTab li span.gmpIcon{
+    background-image: url(../img/glyphicons-halflings.png) ;    
+}
+.gmpNewMapOptsTab li.active span.gmpIcon {
+    background-image: url(../img/glyphicons-halflings-white.png) !important;        
+}
+.gmpIcongmpPluginSettings {
+    background-image: url(../img/glyphicons-halflings.png) !important;
+    background-position: -434px 1px;
+}
+.gmpIconSettings{
+    background-position: -361px -143px;
+}
+.gmpIconMarker{
+    background-position: -26px -69px;
+}
+.gmpMarkersTableContainer{
+    float:left;
+    width:100%;
+    min-height: 350px;
+}
+.gmpMarkerEditForm .markerOptsCon {
+    width: 338px;
+}
+.gmpMapForMarkerEdit {
+    width: 99%;
+    float: right;
+    height: 450px;
+    border: 1px solid;
+}
+.gmpMarkerEditForm {
+    float: left;
+    width: 100%;
+}
+.gmpMarkerEditformBtns{
+    clear: both;
+    margin-bottom:35px;
+    text-align: center;
+}
+.gmpMarkerEditformBtns a,.gmpMarkerEditformBtns button{
+    margin: 0 4px;
+    float: left;
+} 
+#gmpUpdateMarkerItemMsg {
+    clear: both;
+    height: 25px;
+    width: 168px;
+    float: left;
+}
+/*.return-marker-list {
+float: left;
+margin-left: 113px;
+}*/
+/*#gmpTableMarkers .list_address{
+    width: 460px;   
+}*/
+#gmpTableMarkers .list_address{
+    width: 460px !important;
+}
+#gmpTableMarkers .group_title, #gmpTableMarkers .create_date{
+    width: 102px !important;   
+}
+#gmpTableMarkers .operations{
+    width: 192px !important;
+}
+#gmpTableMarkers th {
+	width: 0;
+}
+#gmpTableMarkers {
+	width: 100% !important;
+}
+
+#gmpTableGroups {
+    width: 71%;
+}
+.thOperations{
+    width:200px;
+}
+.gmpGroupForm {
+    width: 400px;
+}
+.gmpGroupForm legend{
+    text-align:center;
+}
+#gmpGroupOptsMsg {
+    clear: both;
+    min-height: 25px;
+    min-width: 50px;
+    float: right;
+}
+.gmpFormTitle {
+    color: green;
+    border-bottom: 1px solid;
+    width: auto;
+    padding: 0 6px;
+    margin: 10px 5px 16px 5px;
+}
+.gmpMarkerTabledescContainer img {
+    width: 83px;
+}
+.gmpMarkerTabledescContainer {
+    width: 233px;
+    overflow: hidden;
+    height: 89px;
+}
+.gmpPluginSettingsFormContainer {
+    float: left;
+    /*width: 450px;*/
+	padding: 0 10px;
+    border-right: 1px solid #9FB1E7;
+}
+#gmpPluginSettings .gmpPluginSettingsFormContainer:last-of-type {
+	border: none;
+}
+#gmpPluginSettingsForm {
+    float: left;
+    width: 332px;
+    margin: 25px 5px;
+}
+#gmpGroupForm {
+    width: 537px;
+    margin: 0 auto;
+}
+#gmp_marker_address {
+    float: left;
+    width: 100%;
+}
+.dataTables_filter {
+    float: right;
+}
+.dataTables_length {
+    float: left;
+}
+
+.gmpIconsList {
+    clear: both;
+    float: left;
+    background-color: #D8DADF;
+    padding: 5px 0 5px 6px;
+    height: 176px;
+    overflow: auto;
+    width: 100%;
+}
+.markerIconItem {
+    float: left;
+    width: 36px;
+    margin: 2px 1px;
+    height: 42px;
+    /*overflow: hidden;*/
+    padding: 1px;
+	position: relative;
+}
+.markerIconItem:hover,.markerIconItem:active{
+    background-color: #608BF8;
+    border: 1px solid #2A65F8;
+    padding: 0;
+}
+.markerIconItem.active{
+    background-color: #1D59F1;
+    border: 1px solid #2A65F8;
+    padding: 0;
+}
+.lft{
+    float:left;
+}
+.gmpIconsSearchBar {
+    float: left;
+    width: 100%;
+    height: 38px;
+}
+.gmpSearchIconField {
+    width: 202px !important;
+    height: 32px !important;
+    margin-top: 1px !important;
+    margin-bottom: 0 !important;
+    padding-left: 20px !important;
+}
+.gmpIconSearchZoomIcon {
+    float: left;
+    width: 18px;
+    height: 24px;
+    background-image: url(../img/glyphicons-halflings.png) !important;
+    background-position: -46px 1px;
+    margin-top: 10px;
+    margin-right: -19px;
+    position: relative;
+}
+.markerIconItem:hover {
+    background-color: #608BF8;
+    border: 1px solid #2A65F8;
+    padding: 0;
+}
+.markerIconItem:hover .gmpMarkerIconRemoveBtn {
+	display: block;
+}
+.gmpMarkerIconFile {
+    max-width: 33px;
+	max-height: 42px;
+	display: block;
+	margin: 0 auto;
+}
+.gmpMarkerIconRemoveBtn {
+	position: absolute;
+	top: -8px;
+	right: -8px;
+	cursor: pointer;
+}
+.gmpMarkerIconRemoveBtn .gmpHidden {
+	display: none;
+}
+.gmpAdminOptionsTabs .mceLayout {
+    min-height: 150px;
+}
+.mceIframeContainer {
+    background-color: white;
+}
+.gmpThMarkerCreationDate{
+    width: 110px !important
+}
+.gmpThMarkerGroups{
+    width: 110px !important    
+}
+.ui-corner-left a {
+    /*color: #428bca;*/
+}
+.gmpMarkersListOfMap {
+    height: 150px;
+    overflow-y: auto;
+}
+.controls {
+    clear: both;
+    float: left;
+    width: 100%;
+}
+.gmp-control-group{
+    float:left;
+    width: 100%;
+}
+.gmpInfoWindowSize{
+    clear:both;
+    padding-left: 21px;
+}
+.gmpInfoWindowSize input {
+    float: right;   
+    width: 50px !important;
+}
+#gmpPluginSettings hr{
+    clear: both;
+    border-bottom: 1px solid white;
+}
+#gmpPluginSettings .gmpFormRow{
+    position:relative;
+}
+.gmpSizePoint{
+	float:right;
+}
+.markerTitleLink_Container {
+    display:none;
+    clear: both;
+    margin-top: 6px;
+    float: right;
+    width:100%;
+    
+}
+.markerTitleLink_Container input{
+    width:75%;
+}
+.gmpMarkerTableaddress{
+    width: 468px !important;
+}
+.tab-content .hiddenLabelHint{
+	top:0;
+}
+.gmpFormRow label.hiddenLabelHint{
+	display:none;
+}
+.gmpFormElemCon {
+    position: relative;
+    float: right;
+}
+label.hiddenLabelHint {
+	clear: both;
+	display: none;
+	position: absolute;
+	background-color: #5bc0de;
+	box-shadow: 0px 0px 7px 1px rgb(116, 114, 114);
+	border-radius: 4px;
+	padding: 6px;
+	z-index: 9999;
+	max-height: 30px;
+	white-space: nowrap;
+	margin: 0;
+	line-height: 11px;
+	padding: 9px !important;
+	color: white;
+	font-size: 13px;
+	right: 6px;
+	top: -37px !important;
+	margin: 0;
+}
+.hiddenLabelHint :hover{
+	display:block !important;
+}
+.gmpHintElem:hover +label{
+	display:block;
+}
+.gmpHintElem:focus +label{
+	display:none !important;
+}
+a.gmpHintElem:hover +label{
+	display:block !important;
+}
+.hiddenLabelHint:after {
+	display: block;
+	content: "";
+	position: absolute;
+	width: 15px;
+	height: 14px;
+	float: right;
+	border: 13px solid transparent;
+	border-top-color: #5bc0de;
+	margin-left: -8px;
+	margin-top: 4px;
+	right: 0px;
+	z-index: 99999;
+}
+.gmp_map_opts > label.hiddenLabelHint:before{
+	position:absolute;
+	width:20px;
+	height:20px;
+	background-color:black;
+}
+.gmpLowerHintLabel{
+	margin-top:10px !important;
+}
+.gmpFormRowsCon {
+	clear: both;
+	float: left;
+	width: 100%;
+	padding-top: 10px;
+}
+.gmpFormRowsCon h3{	margin:0;}
+.gmpFormRowsCon p{	margin:0;}
+.gmpTabElemSimpTxt span.gmpIconSimpMarker{
+    background-image: url("../img/simp-mark.png") !important;
+    background-position: -10px -1px;
+    background-size: cover;
+    padding-top: 0;
+    display: inline-block;
+    width: 17px;
+    height: 26px;
+    margin-top: 0px;
+    line-height: 19px;
+    vertical-align: text-top;
+    background-repeat: no-repeat;
+    margin-left: -5px;
+    margin-right: 3px;
+}
+.gmpTabForNewMapOpts {
+    padding: 4px 3px !important;
+}
+#gmpTabForNewMapOpts {
+	padding: 4px 3px;
+}
+.gmpFormRow .wp-editor-tools{
+	float:right;
+}
+.gmpFormRow .mceIframeContainer  iframe {
+	min-height:100px;
+}
+div.gmpUnderMapPic {
+    padding: 7px;
+    margin: 10px 0 0 0;
+    margin-top: 15px;
+	float: right;
+	width: 100%;
+}
+div.gmp-undermap-pic img {
+    border: none;
+    width: 99%;
+}
+.gmp-marker-right-block {
+	float: right;
+}
+.importExportFormContainer {
+	float: left;
+	margin: 0 0px 0 18px;
+}
+#ImportExportForm select,#ImportExportForm input{
+    float:right;
+    max-width: 250px;
+}
+.gmpImpExpOpts{
+    display:none;
+    margin: 0 0 0 12px;
+    padding: 9px;
+    background-color: #edeff4;
+}
+.exportMapItm {
+    clear: both;
+    width: 98%;
+    float: left;
+}
+.existsMApsListToExport {
+    float: left;
+    width: 100%;
+    height: 160px;
+    overflow-y: auto;
+}
+.gmpIconExport{
+    background-image: url(../img/glyphicons-halflings-white.png) !important;
+	background-position: -313px -141px;
+}
+.gmpIconImport{
+    background-image: url(../img/glyphicons-halflings-white.png) !important;
+    background-position: -289px -142px;
+}
+
+.paginate_button_disabled {
+	display: none !important; /*hide unused pagination buttons*/
+}

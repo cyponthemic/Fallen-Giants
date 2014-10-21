@@ -39,10 +39,10 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] )
 	$classes[] = 'last';
 */
 ?>
-<div class="row">
-
+<div class="row winerow">
+	<div class="large-1 large-offset-1 columns"></div>
 	<!-- <?php do_action( 'woocommerce_before_shop_loop_item' ); ?> -->
-	<div class="large-4 large-offset-1 columns">
+	<div class="large-4  large-offset-1 columns">
 	<a href="<?php the_permalink(); ?>">
 
 		<?php
@@ -76,4 +76,5 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] )
 		<a href="<?php the_permalink(); ?>" class="button large-12">ORDER NOW</a>
 	<!-- <?php do_action( 'woocommerce_after_shop_loop_item' ); ?> -->
 	</div>
+	<div class="large-1 columns"></div>
 </div>

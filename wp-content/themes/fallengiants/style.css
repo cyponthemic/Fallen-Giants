@@ -11,23 +11,39 @@
 */
 
 
+
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+/* entypo */
+[class*="entypo-"]:before {
+  font-family: 'entypo', sans-serif;
+  font-size: x-large;
+  padding-right: 10px;
+  
+}
+[class*="entypo-"]{
+list-style: none;
+
+}
 html,body {
 	background-color: #cac3bb;
 }
-.contain-to-grid, .top-bar.expanded .title-area {
+.top-bar.expanded .title-area {
 background: black !important;
-margin: 0 0 80px 0;
-padding-top: 20px;
+}
+.contain-to-grid{
+height: 100px;
+background: url("bg/header.png") top no-repeat;
+overflow: visible;
 }
 .header-bg {
-background: url("bg/header.png") bottom no-repeat;
-height: 100px;
-margin-bottom: -100px;
+height: 10px;
+
 }
 nav *, .top-bar {
-background: black !important;	
+background: black !important;
 }
 
 .top-bar-section>ul>.divider, .top-bar-section>ul>[role="separator"]{
@@ -44,15 +60,21 @@ background: black !important;
 }
 .bghomepage {
 	width: 100%;
-	position: static;
-	z-index: 4;
-	height: 82vw;
-	background-image: url(bg/home.png);
-	background-size: 100%;
-	background-repeat: no-repeat;
+	height: 90vh;
+	
+	background-image: url(bg/homev3.png);
+	background-size:  auto 90vh;
+	background-repeat:  no-repeat;
 	background-position: center top;
 	border-bottom: solid black 1px;	
+	
 }
+.mainlogo {
+margin-top: 200px;
+margin-left:30vw; 
+width: 40vw;
+}
+
 
 .bgourstory {
 background-image: url(bg/ourstory.png);
@@ -63,22 +85,75 @@ background-position: center top;
 @media only screen and (min-width:1200px) {.bgourstory {background-size: 100%;}} /* min-width 641px, medium screens */
 
 .bgourstoryend {
-background-image: url(bg/ourstoryend.png);
-height: 632px;
-margin-top: -250px;
-background-position: center top;
+background-image: url(bg/ourstoryendv2.png);
+
+height: 1270px;
+margin-top: -700px;
+background-position: center bottom;
+background-repeat: repeat-x;
 }
 @media only screen and (min-width:1200px) {.bgourstoryend {background-size: 100%;}} /* min-width 641px, medium screens */
+
+
+.bgourwines {
+background-image: url(bg/ourwines.png);
+height: 445px;
+margin-bottom: -300px;
+background-position: center top;
+background-repeat: no-repeat;
+/* background-size: 100%; */
+}
+
+.bgourwinesend {
+background-image: url(bg/ourwinesend.png);
+
+height: 775px;
+margin-top: -100px;
+background-position: center bottom;
+background-repeat: repeat-x;
+}
+
+
+@media only screen and (min-width:1000px) {.bgourwines {background-size: 100%;}} /* min-width 641px, medium screens */
+
+.bgfindusend {
+background-image: url(bg/findusend.png);
+height: 694px;
+margin-top: -50px;
+background-position: center top;
+}
+@media only screen and (min-width:1200px) {.bgfindusend {background-size: 100%;}} /* min-width 641px, medium screens */
+
+
 * {
-font-family: museo_sans500;
+font-family: 'Quicksand', sans-serif;
+}
+
+h3 {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 300;
+}
+
+p {
+	font-size: 18px;
+}
+
+h4 {
+	font-size: 24px;
 }
 .top-bar-section ul li>a {
-	font-family: museo_slab500 ;
-	background: black !important;
+	font-family: 'Quicksand', sans-serif;
+		background: black !important;
 }
 .entry-title {
-font-family: museo_slab500;
+font-family: 'Quicksand', sans-serif;
+text-transform:  uppercase !important;
 }
+
+.winerow {
+	padding-bottom: 100px;
+}
+
 .button {
 font-family: museo_slab500;
 background-color: rgba(255,255,255,0.5);
@@ -86,16 +161,32 @@ color: black;
 font-size: 24px;
 border: 3px solid black;
 }
+
+#our-story .entry-title {
+	background-image: url('bg/eagle.png');
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 20%;
+}
+
 .entry-title {
-padding-top: 100px;
+padding-top: 150px;
+padding-bottom: 100px;
 }
 .entry-title {
 	text-align: center;
 	
 }
-.btlbox {
-	text-align: center;
+
+#cellar-door img {
+	opacity: 0.8;
 }
-.btlshot{
-	max-width: 40%;
+
+#find-us ul{
+margin: 0;
+}
+
+#footer {
+	background-color: black;
+	height: 400px;
 }

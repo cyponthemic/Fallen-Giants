@@ -14,6 +14,6 @@ function enqueue_child_theme_styles() {
     wp_enqueue_style( 'child-style', get_stylesheet_uri(), array('parent-style')  );
 }
 
-
+add_editor_style( get_stylesheet_uri());
 
 

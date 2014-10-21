@@ -1,0 +1,1396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Maps Ready! v1.1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-07 18:06+0100\n"
+"PO-Revision-Date: 2014-09-06 15:02+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/field.php:131 modules/shortcodes/views/shortcodes.php:5
+msgid "Select"
+msgstr "Vælg"
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr "Ikke tilgængelig"
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Tilføj tjekboks"
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr "Tilføj objekt"
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr "TIlføj radio knap"
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr "Dimension"
+
+#: classes/field.php:314
+msgid "width"
+msgstr "Bredde"
+
+#: classes/field.php:316
+msgid "height"
+msgstr "Højde"
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Klik for at sætte felt \"id\"og\"class\""
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr "Attribute"
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Der er ingen konfigurations indstilling for dette modul"
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "tilfør"
+
+#: classes/fieldAdapter.php:95 modules/marker/views/marker.php:35
+msgid "Address"
+msgstr "Adresse"
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Destination"
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Land"
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Kategorier"
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Du har ingen kategorier"
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Varemærke"
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Du har intet varemærke"
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Skattesats"
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Absolut"
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Ikke valgt"
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr "klasse"
+
+#: classes/fieldAdapter.php:186
+msgid "id"
+msgstr "Id"
+
+#: classes/frame.php:142
+msgid "You have no permissions to view this page"
+msgstr "Du har ikke rettighed til at se denne side"
+
+#: classes/html.php:174
+msgid "Upload"
+msgstr "Upload"
+
+#: classes/installer.php:274
+msgid " Page Content"
+msgstr "Side indhold"
+
+#: classes/modInstaller.php:78
+msgid "Can not create module directory. Try to set permission to "
+msgstr "Kan ikke lave modul bibliotek. Prøv at sætte tilladelse til"
+
+#: classes/modInstaller.php:106
+msgid "No modules were found in XML file"
+msgstr "Ingen moduler blev fundet i XML filen"
+
+#: classes/modInstaller.php:110
+msgid "Invalid XML file"
+msgstr "Invalid XML fil"
+
+#: classes/modInstaller.php:112
+msgid "No XML file were found"
+msgstr "Ingen XML fil blev fundet"
+
+#: classes/modInstaller.php:142
+msgid "Error Activate module"
+msgstr "Fejl aktivering modul"
+
+#: classes/modInstaller.php:271
+msgid "You need to activate"
+msgstr "Du skal aktivere"
+
+#: classes/modInstaller.php:273
+msgid "Just click"
+msgstr "Bare klik"
+
+#: classes/modInstaller.php:274
+msgid "here"
+msgstr "Her"
+
+#: classes/modInstaller.php:275
+msgid "and enter your activation code."
+msgstr "Og skriv din aktiveringskode"
+
+#: classes/modInstaller.php:369
+msgid "Error Deactivation module"
+msgstr "Fejl deaktivering modul"
+
+#: classes/modInstaller.php:390
+msgid "Error Activating module"
+msgstr "Fejl aktivering modul"
+
+#: classes/table.php:264
+msgid "Nothig to update"
+msgstr "Intet at opdatere"
+
+#: classes/table.php:281
+msgid "Database error. Please contact your developer."
+msgstr "Database fejl. Kontakt venligst din udvikler."
+
+#: classes/tables/access.php:7 classes/tables/htmltype.php:7
+#: classes/tables/log.php:7 classes/tables/modules_type.php:7
+#: classes/tables/options.php:7 classes/tables/options_categories.php:7
+#: modules/gmap/views/gmap.php:188 modules/gmap/views/tpl/editMaps.php:76
+#: modules/marker/views/marker.php:29
+#: modules/marker_groups/views/tpl/groupsTable.php:7
+msgid "ID"
+msgstr "ID"
+
+#: classes/tables/access.php:8
+msgid "Access"
+msgstr "Adgang"
+
+#: classes/tables/access.php:9
+msgid "Type_access"
+msgstr "Adgangstype"
+
+#: classes/tables/email_templates.php:7 classes/tables/modules.php:7
+#: classes/tables/modules_type.php:8 classes/tables/options.php:10
+msgid "Label"
+msgstr "Etiket"
+
+#: classes/tables/email_templates.php:7
+msgid "Template label"
+msgstr "Skabelon etiket"
+
+#: classes/tables/email_templates.php:8
+#: modules/adminmenu/views/tpl/mainpage.php:67
+msgid "Subject"
+msgstr "Emne"
+
+#: classes/tables/email_templates.php:8
+msgid "E-mail Subject"
+msgstr "E-mail emne"
+
+#: classes/tables/email_templates.php:9
+msgid "Body"
+msgstr "Body"
+
+#: classes/tables/email_templates.php:9
+msgid "E-mail Body"
+msgstr "E-mail Body"
+
+#: classes/tables/email_templates.php:10
+msgid "Variables"
+msgstr "Variabler"
+
+#: classes/tables/email_templates.php:10
+msgid "Template variables. They can be used in the body and subject"
+msgstr "Skabelon variabler. De kan bruges i Body og emne"
+
+#: classes/tables/email_templates.php:11 classes/tables/modules.php:9
+msgid "Active"
+msgstr "Aktiver"
+
+#: classes/tables/email_templates.php:11
+msgid "If checked the notifications will be sent to receiver"
+msgstr "Hvis tjekket, så vil notifikationerne blive sendt til modtageren."
+
+#: classes/tables/files.php:7
+msgid "Product ID"
+msgstr "Produkt ID"
+
+#: classes/tables/files.php:8 classes/tables/maps.php:9
+#: classes/tables/marker.php:8 classes/tables/marker_groups.php:9
+msgid "File name"
+msgstr "Fil navn"
+
+#: classes/tables/files.php:9
+msgid "Real Path To File"
+msgstr "Rigtig vej til fil"
+
+#: classes/tables/files.php:10
+msgid "Mime Type"
+msgstr "Mime type"
+
+#: classes/tables/files.php:11
+msgid "File Size"
+msgstr "Fil størrelse"
+
+#: classes/tables/files.php:12
+msgid "Active Download"
+msgstr "Aktiv download"
+
+#: classes/tables/files.php:13
+msgid "Upload Date"
+msgstr "Uploadings dato"
+
+#: classes/tables/files.php:14
+msgid "Download Limit"
+msgstr "Download grænse"
+
+#: classes/tables/files.php:15
+msgid "Period Limit"
+msgstr "Periode grænse"
+
+#: classes/tables/files.php:16
+msgid "Descritpion"
+msgstr "Beskrivelse"
+
+#: classes/tables/files.php:17
+msgid "Type ID"
+msgstr "Type ID"
+
+#: classes/tables/htmltype.php:8 classes/tables/options_categories.php:8
+msgid "Method"
+msgstr "Metode"
+
+#: classes/tables/htmltype.php:9 classes/tables/modules.php:12
+#: classes/tables/options.php:12 modules/marker/views/marker.php:32
+#: modules/marker_groups/views/tpl/groupsTable.php:10
+msgid "Description"
+msgstr "Beskrivning"
+
+#: classes/tables/icons.php:8
+msgid "Icon ID"
+msgstr "Ikon ID"
+
+#: classes/tables/icons.php:9
+msgid "Icon Title"
+msgstr "Ikon titel"
+
+#: classes/tables/icons.php:10
+msgid "Icon Description"
+msgstr "Ikon beskrivelse"
+
+#: classes/tables/icons.php:11
+msgid "File Path"
+msgstr "Fil vej"
+
+#: classes/tables/log.php:8 classes/tables/modules.php:8
+#: classes/tables/options.php:13
+#: modules/shortcodes/views/tpl/adminTextEditorPopup.php:78
+msgid "Type"
+msgstr "Type"
+
+#: classes/tables/log.php:9
+msgid "Data"
+msgstr "Data"
+
+#: classes/tables/log.php:10
+msgid "Date created"
+msgstr "Dato lavet"
+
+#: classes/tables/log.php:11
+msgid "User ID"
+msgstr "Bruger ID"
+
+#: classes/tables/log.php:12
+msgid "Order ID"
+msgstr "Ordre ID"
+
+#: classes/tables/maps.php:8 classes/tables/marker.php:7
+#: classes/tables/marker_groups.php:8
+msgid "Map ID"
+msgstr "Kort ID"
+
+#: classes/tables/maps.php:10 classes/tables/marker.php:9
+#: classes/tables/marker_groups.php:10
+msgid "Description Of Map"
+msgstr "Beskrivelse af kort"
+
+#: classes/tables/maps.php:11
+msgid "Html Parametrs"
+msgstr "HTML parametre"
+
+#: classes/tables/maps.php:12
+msgid "Create Date"
+msgstr "Skabelse dato"
+
+#: classes/tables/maps.php:13
+msgid "Additional Params"
+msgstr "Ekstra parametre"
+
+#: classes/tables/marker.php:10
+msgid "X coordinate if marker(lng)"
+msgstr "X-koordinat hvis marker(Ing)"
+
+#: classes/tables/marker.php:11
+msgid "Y coordinate of marker(lat)"
+msgstr "Y-koordinat for marker(lat)"
+
+#: classes/tables/marker.php:12
+msgid "Path of icon file"
+msgstr "Vej for ikon fil"
+
+#: classes/tables/marker.php:13
+msgid "Map Id"
+msgstr "Kort Id"
+
+#: classes/tables/marker.php:14 modules/marker/views/tpl/markerForm.php:176
+msgid "Marker Address"
+msgstr "Markør adresse"
+
+#: classes/tables/marker.php:15
+msgid "Id of Marker's group"
+msgstr "Id for laver gruppen"
+
+#: classes/tables/marker.php:16
+msgid "Animation"
+msgstr "Animation"
+
+#: classes/tables/marker.php:17 classes/tables/modules.php:10
+#: classes/tables/options.php:11
+msgid "Params"
+msgstr "Parametre"
+
+#: classes/tables/marker.php:18
+msgid "Creation date"
+msgstr "Skabelses dato"
+
+#: classes/tables/modules.php:11
+msgid "Has Tab"
+msgstr "Har tab"
+
+#: classes/tables/modules.php:13 classes/tables/options.php:8
+#: classes/tables/usage.php:9
+msgid "Code"
+msgstr "Kode"
+
+#: classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Eksternt plugin bibliotek"
+
+#: classes/tables/options.php:9
+msgid "Value"
+msgstr "Værdi"
+
+#: classes/tables/options.php:14
+msgid "Category ID"
+msgstr "Kategori ID"
+
+#: classes/tables/options.php:15
+msgid "Sort Order"
+msgstr "Sorterings ordre"
+
+#: classes/tables/options.php:16
+msgid "Value Type"
+msgstr "Værditype"
+
+#: classes/tables/subscribers.php:7
+msgid "User Id"
+msgstr "Bruger Id"
+
+#: classes/tables/subscribers.php:8
+msgid "User E-mail"
+msgstr "Bruger E-mail"
+
+#: classes/tables/subscribers.php:8
+msgid "Subscriber E-mail"
+msgstr "Følger E-mail"
+
+#: classes/tables/subscribers.php:9
+msgid "User Name"
+msgstr "Brugernavn"
+
+#: classes/tables/subscribers.php:9
+msgid "User Name If User Is Registered"
+msgstr "Brugernavn hvis bruger er registreret"
+
+#: classes/tables/subscribers.php:10
+msgid "Subscription Date"
+msgstr "Følger dato"
+
+#: classes/tables/subscribers.php:10
+msgid "Date Of Subscription"
+msgstr "Dato for følger"
+
+#: classes/tables/subscribers.php:11
+msgid "Active Subscription"
+msgstr "Aktiver følge"
+
+#: classes/tables/subscribers.php:11
+msgid "If Is Not Checked user will not get any newsletters"
+msgstr "Hvis ikke tjekket vil brugeren ikke få nyhedsbrev"
+
+#: classes/tables/subscribers.php:12
+msgid "Token"
+msgstr "Tegn"
+
+#: classes/tables/subscribers.php:13
+msgid "IP address"
+msgstr "IP-Adresse"
+
+#: classes/tables/usage.php:8
+msgid "Usage id"
+msgstr "Bruger id"
+
+#: classes/tables/usage.php:10
+msgid "Visits Count"
+msgstr "Besøgstæller"
+
+#: modules/adminmenu/controller.php:7
+msgid "Your name field is required."
+msgstr "Dit navn skal udfyldes"
+
+#: modules/adminmenu/controller.php:8
+msgid "Your website field is required."
+msgstr "Din hjemmeside skal udfyldes"
+
+#: modules/adminmenu/controller.php:9
+msgid "Your e-mail field is required."
+msgstr "Din E-mail skal udfyldes"
+
+#: modules/adminmenu/controller.php:10
+msgid "Subject field is required."
+msgstr "Emnet skal udfyldes"
+
+#: modules/adminmenu/controller.php:11
+msgid "You must select a valid category."
+msgstr "Du skal vælge en valid kategori"
+
+#: modules/adminmenu/controller.php:12
+msgid "Message field is required."
+msgstr "Beskedfelt skal udfyldes"
+
+#: modules/adminmenu/controller.php:29 modules/gmap/controller.php:32
+#: modules/gmap/controller.php:70 modules/gmap/controller.php:113
+#: modules/marker/controller.php:22 modules/marker/controller.php:57
+#: modules/marker/controller.php:79 modules/marker/controller.php:119
+#: modules/marker_groups/controller.php:18
+#: modules/marker_groups/controller.php:33
+#: modules/options/views/tpl/deactivatePage.php:34
+msgid "Done"
+msgstr "Færdig"
+
+#: modules/adminmenu/mod.php:10
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: modules/adminmenu/views/adminmenu.php:13
+#: modules/options/views/tpl/optionsAdminPage.php:29
+msgid "Add New Map"
+msgstr "Tilføj nyt kort"
+
+#: modules/adminmenu/views/adminmenu.php:14
+msgid "All Maps"
+msgstr "Alle kort"
+
+#: modules/adminmenu/views/adminmenu.php:15 modules/csv/controller.php:100
+#: modules/gmap/views/gmap.php:192 modules/gmap/views/tpl/addMap.php:13
+#: modules/gmap/views/tpl/editMaps.php:12
+msgid "Markers"
+msgstr "Markører"
+
+#: modules/adminmenu/views/adminmenu.php:16
+msgid "Marker Groups"
+msgstr "Markør grupper"
+
+#: modules/adminmenu/views/adminmenu.php:17
+#: modules/options/views/tpl/settingsTab.php:3
+msgid "Plugin Settings"
+msgstr "Plugin indstillinger"
+
+#: modules/adminmenu/views/adminmenu.php:25
+msgid "Ready! Google Maps"
+msgstr "Ready! Google Maps"
+
+#: modules/adminmenu/views/tpl/mainpage.php:29
+msgid "FAQ"
+msgstr "FAQ"
+
+#: modules/adminmenu/views/tpl/mainpage.php:31
+#: modules/adminmenu/views/tpl/mainpage.php:38
+#: modules/adminmenu/views/tpl/mainpage.php:39
+#: modules/adminmenu/views/tpl/mainpage.php:40
+#: modules/adminmenu/views/tpl/mainpage.php:41
+msgid "-"
+msgstr "-"
+
+#: modules/adminmenu/views/tpl/mainpage.php:32
+msgid ""
+"It is a complete solution for full-fledged shop. Our plugin is integrated in "
+"this free WordPress theme."
+msgstr ""
+"Det er en komplet løsning for perfekt en butik. Vores plugin er intergreret "
+"i denne gratis WordPress skabelon"
+
+#: modules/adminmenu/views/tpl/mainpage.php:33
+msgid "To launch your shop, you need to complete 2 points:"
+msgstr "For at starte din butik, bliver du nød til at få 2 point:"
+
+#: modules/adminmenu/views/tpl/mainpage.php:35
+msgid "Set up theme and plugin"
+msgstr "Opsæt skabelon og plugin"
+
+#: modules/adminmenu/views/tpl/mainpage.php:36
+msgid "Add products"
+msgstr "Tilføj produkter"
+
+#: modules/adminmenu/views/tpl/mainpage.php:42
+msgid "- Video Tutorials"
+msgstr "- Video vejledninger"
+
+#: modules/adminmenu/views/tpl/mainpage.php:47
+msgid "System Information"
+msgstr "Systeminformation"
+
+#: modules/adminmenu/views/tpl/mainpage.php:60
+msgid "Contact Us"
+msgstr "Kontakt os"
+
+#: modules/adminmenu/views/tpl/mainpage.php:64
+#: modules/gmap/views/tpl/editMaps.php:77
+msgid "Name"
+msgstr "Navn"
+
+#: modules/adminmenu/views/tpl/mainpage.php:64
+msgid "John Doe"
+msgstr "John Doe"
+
+#: modules/adminmenu/views/tpl/mainpage.php:65
+msgid "E-mail"
+msgstr "E-mail"
+
+#: modules/adminmenu/views/tpl/mainpage.php:65
+msgid "mail@example.com"
+msgstr "mail@eksempel.com"
+
+#: modules/adminmenu/views/tpl/mainpage.php:66
+msgid "Website"
+msgstr "Hjemmeside"
+
+#: modules/adminmenu/views/tpl/mainpage.php:66
+msgid "http://yoursite.com"
+msgstr "http://Dinside.com"
+
+#: modules/adminmenu/views/tpl/mainpage.php:68
+#: modules/shortcodes/views/tpl/adminTextEditorPopup.php:81
+msgid "Category"
+msgstr "Kategori"
+
+#: modules/adminmenu/views/tpl/mainpage.php:69
+msgid "Message"
+msgstr "Besked"
+
+#: modules/adminmenu/views/tpl/mainpage.php:69
+msgid ""
+"Type your meassage here. If you have any troubles, please describe it "
+"accurately. If it`s possibe send us: (text of the errors, print screen of "
+"errors, link to the webpages where you try to insert products, and any other "
+"information)"
+msgstr ""
+"Skriv din besked her. Hvis du har nogle problemer, beskriv venligst så "
+"præcist så muligt. Hvis muligt send os: (besked af fejlene, skærmbillede af "
+"fejl, link til hjemmesiderne du prøver at indsætte produkter, og anden "
+"information)"
+
+#: modules/adminmenu/views/tpl/mainpage.php:75
+msgid "Send e-mail"
+msgstr "Send e-mail"
+
+#: modules/adminmenu/views/tpl/mainpage.php:85
+msgid "News and Info"
+msgstr "Nyheder og info"
+
+#: modules/adminmenu/views/tpl/mainpage.php:87
+msgid "- If you like our plugin, please rate it five stars at"
+msgstr "- Hvis du kan lide vores plugin, så giv den 5 stjerner på"
+
+#: modules/adminmenu/views/tpl/mainpage.php:88
+msgid ""
+"- If you don't, please contact us, showing us our imperfection. We'll try to "
+"improve our service."
+msgstr ""
+"- Hvis ikke, kontakt os og kom med kritik. Så vil vi prøve at gøre vores "
+"service bedre."
+
+#: modules/adminmenu/views/tpl/mainpage.php:89
+msgid "- New "
+msgstr "- Ny"
+
+#: modules/csv/controller.php:11
+msgid "Maps"
+msgstr "Kort"
+
+#: modules/csv/controller.php:47
+msgid "Marker"
+msgstr "Markør"
+
+#: modules/csv/controller.php:133
+msgid "Missing File"
+msgstr "Manglende fil"
+
+#: modules/csv/controller.php:164
+msgid ""
+"File should contain more then 1 row, at least 1 row should be for headers"
+msgstr ""
+"Filen skal indeholde mere end 1 række, mindst 1 række skal være for headers"
+
+#: modules/csv/controller.php:166
+msgid "Empty data in file"
+msgstr "Ingen data i filen"
+
+#: modules/csv/models/csv.php:122
+msgid "Can not detect import list type"
+msgstr "Kan ikke finde importerings list typen"
+
+#: modules/csv/models/csv.php:124
+msgid "Can not find fields names"
+msgstr "Kan ikke finde feltets navn"
+
+#: modules/csv/views/tpl/csvSettitngsBlockHtml.php:1
+msgid "Export / Import"
+msgstr "Eksport / Import"
+
+#: modules/csv/views/tpl/csvSettitngsBlockHtml.php:4
+msgid "Export Maps"
+msgstr "Eksporter kort"
+
+#: modules/csv/views/tpl/csvSettitngsBlockHtml.php:8
+msgid "Export Markers"
+msgstr "Eksport markørerne"
+
+#: modules/csv/views/tpl/csvSettitngsBlockHtml.php:15
+msgid "Export maps with markers"
+msgstr "Eksporter kort med markøre"
+
+#: modules/csv/views/tpl/csvSettitngsBlockHtml.php:34
+msgid "Overwrite data with same names"
+msgstr "Overskriv data med samme navne"
+
+#: modules/gmap/controller.php:13
+msgid "Map data not found"
+msgstr "Kort data kan ikke findes"
+
+#: modules/gmap/controller.php:65
+msgid "Nothing to remove"
+msgstr "Intet at slette"
+
+#: modules/gmap/models/gmap.php:57
+msgid "Please enter Map Name"
+msgstr "Skriv venligst kort navn"
+
+#: modules/gmap/models/gmap.php:80
+msgid "Empty Params"
+msgstr "Tomme parametre"
+
+#: modules/gmap/views/gmap.php:189 modules/marker/views/marker.php:31
+#: modules/marker_groups/views/tpl/groupsTable.php:8
+msgid "Title"
+msgstr "Titel"
+
+#: modules/gmap/views/gmap.php:191
+msgid "Html options"
+msgstr "Html indstillinger"
+
+#: modules/gmap/views/gmap.php:193 modules/marker/views/marker.php:37
+#: modules/marker_groups/views/tpl/groupsTable.php:13
+msgid "Operations"
+msgstr "Operationer"
+
+#: modules/gmap/views/tpl/addMap.php:9
+msgid "Add Marker"
+msgstr "Tilføj markøre"
+
+#: modules/gmap/views/tpl/addMap.php:17 modules/gmap/views/tpl/editMaps.php:18
+#: modules/marker/views/tpl/markerForm.php:8
+#: modules/marker_groups/views/tpl/groupsList.php:40
+#: modules/options/views/tpl/settingsTab.php:38
+msgid "Save"
+msgstr "Gem"
+
+#: modules/gmap/views/tpl/addMap.php:21 modules/gmap/views/tpl/editMaps.php:22
+#: modules/marker/views/tpl/markerForm.php:11
+#: modules/marker/views/tpl/markerListOperations.php:7
+#: modules/marker_groups/views/tpl/groupsTable.php:39
+msgid "Remove"
+msgstr "Slet"
+
+#: modules/gmap/views/tpl/addMap.php:30 modules/gmap/views/tpl/editMaps.php:31
+msgid "Map Properties"
+msgstr "Kort indstillinger"
+
+#: modules/gmap/views/tpl/addMap.php:34 modules/gmap/views/tpl/editMaps.php:35
+msgid "Save Map"
+msgstr "Gem kort"
+
+#: modules/gmap/views/tpl/editMaps.php:8
+msgid "Add New Marker"
+msgstr "Tilføj ny markør"
+
+#: modules/gmap/views/tpl/editMaps.php:59
+msgid "Map"
+msgstr "Kort"
+
+#: modules/gmap/views/tpl/editMaps.php:71
+msgid "Markers List"
+msgstr "Markør liste"
+
+#: modules/gmap/views/tpl/editMaps.php:78
+msgid "Lat / Lon"
+msgstr "Lat / Lon"
+
+#: modules/gmap/views/tpl/mapForm.php:6
+msgid "Title For Map"
+msgstr "Titel for kort"
+
+#: modules/gmap/views/tpl/mapForm.php:9
+msgid "Map Name"
+msgstr "Kort navn"
+
+#: modules/gmap/views/tpl/mapForm.php:30
+msgid "Width for map in pixels or percent"
+msgstr "Bredde for kort i pixels eller procent"
+
+#: modules/gmap/views/tpl/mapForm.php:37
+msgid "Width measure units, height will always be in px"
+msgstr "Bredde måleenheder, højde vil altid være i px"
+
+#: modules/gmap/views/tpl/mapForm.php:41
+msgid "Map Width"
+msgstr "Kort bredde"
+
+#: modules/gmap/views/tpl/mapForm.php:50
+msgid "Height For Map In Pixels"
+msgstr "Højde for kort i pixels"
+
+#: modules/gmap/views/tpl/mapForm.php:54
+msgid "Map Height"
+msgstr "Kort højde"
+
+#: modules/gmap/views/tpl/mapForm.php:70
+msgid "Enable Zoom Control In Map"
+msgstr "Aktiver zoom kontrol på kort"
+
+#: modules/gmap/views/tpl/mapForm.php:74
+msgid "Enable Zoom/Control  Panel"
+msgstr "Aktiver Zoom/Kontrol panel"
+
+#: modules/gmap/views/tpl/mapForm.php:80
+msgid "Enable Mouse Zoom In Map"
+msgstr "Aktiver Mus zoom på kort"
+
+#: modules/gmap/views/tpl/mapForm.php:87
+msgid "Enable Mouse Zoom/Control  Panel"
+msgstr "Aktiver Musse zoom/Kontrol panel"
+
+#: modules/gmap/views/tpl/mapForm.php:96
+msgid "Default Zoom For Map"
+msgstr "Standard zoom for kort"
+
+#: modules/gmap/views/tpl/mapForm.php:100
+msgid "Map Zoom Level"
+msgstr "Kort zoom niveau"
+
+#: modules/gmap/views/tpl/mapForm.php:109
+#: modules/gmap/views/tpl/mapForm.php:156
+#: modules/gmap/views/tpl/mapForm.php:169
+#: modules/gmap/views/tpl/mapForm.php:181
+msgid "Select Map Display Mode"
+msgstr "Vælg kortets visnings måde"
+
+#: modules/gmap/views/tpl/mapForm.php:113
+msgid "Map Type"
+msgstr "Kort type"
+
+#: modules/gmap/views/tpl/mapForm.php:123
+msgid "Select Map Display Language"
+msgstr "Vælg kortets visnings sprog"
+
+#: modules/gmap/views/tpl/mapForm.php:127
+msgid "Map Language"
+msgstr "Kort sprog"
+
+#: modules/gmap/views/tpl/mapForm.php:135
+#: modules/gmap/views/tpl/mapForm.php:139
+msgid "Map Align"
+msgstr "Kort afstemning"
+
+#: modules/gmap/views/tpl/mapForm.php:160
+msgid "Map Margin"
+msgstr "Kort grænse"
+
+#: modules/gmap/views/tpl/mapForm.php:173
+msgid "Border Color"
+msgstr "Grænse farve"
+
+#: modules/gmap/views/tpl/mapForm.php:185
+msgid "Border Width"
+msgstr "Grænse bredde"
+
+#: modules/gmap/views/tpl/mapForm.php:189
+msgid "Markers Infowindows Size"
+msgstr "Markørers info vindues størrelse"
+
+#: modules/gmap/views/tpl/mapForm.php:190
+msgid "In Pixels"
+msgstr "I pixels"
+
+#: modules/gmap/views/tpl/mapForm.php:196
+#: modules/gmap/views/tpl/mapForm.php:201
+msgid "InfoWindow Width"
+msgstr "Info vindues bredde"
+
+#: modules/gmap/views/tpl/mapForm.php:210
+#: modules/gmap/views/tpl/mapForm.php:215
+msgid "InfoWindow Height"
+msgstr "Info vindues højde"
+
+#: modules/gmap/views/tpl/mapListHtmlOptions.php:10
+#: modules/shortcodes/views/tpl/adminTextEditorPopup.php:76
+msgid "Shortcode"
+msgstr "Kortkode"
+
+#: modules/gmap/views/tpl/mapListOperations.php:3
+#: modules/marker/views/tpl/markerListOperations.php:3
+#: modules/marker_groups/views/tpl/groupsTable.php:35
+msgid "Edit"
+msgstr "Rediger"
+
+#: modules/gmap/views/tpl/mapListOperations.php:7
+msgid "Delete"
+msgstr "Slet"
+
+#: modules/gmap/views/tpl/mapPreview.php:3
+msgid "Map not found"
+msgstr "Kort ikke fundet"
+
+#: modules/gmap_widget/mod.php:18
+msgid "Displays Most Viewed Products"
+msgstr "Vis mest sete produkter"
+
+#: modules/gmap_widget/mod.php:23
+msgid "Google Maps Ready!"
+msgstr "Google Maps Ready!"
+
+#: modules/gmap_widget/views/gmap_widget.php:15
+msgid "You have no maps"
+msgstr "Du har ingen kort"
+
+#: modules/gmap_widget/views/tpl/form.php:6
+msgid "Select map"
+msgstr "Vælg kort"
+
+#: modules/gmap_widget/views/tpl/form.php:14
+msgid "Widget Map width"
+msgstr "Widget kort bredde"
+
+#: modules/gmap_widget/views/tpl/form.php:21
+msgid "Widget Map height"
+msgstr "Widget kort højde"
+
+#: modules/gmap_widget/views/tpl/form.php:28
+msgid "Display as image"
+msgstr "Vis som billede"
+
+#: modules/gmap_widget/views/tpl/form.php:36
+msgid ""
+"Map will be displayed as image at sidebar, on click - will be opened in popup"
+msgstr ""
+"Kort vil blive vist som et billede i sidebaren, ved klik - vil det blive "
+"åbnet som et popup"
+
+#: modules/icons/controller.php:20
+msgid "Empty url"
+msgstr "Tøm url"
+
+#: modules/icons/models/icons.php:28
+msgid "Icon no found"
+msgstr "Ikon ikke fundet"
+
+#: modules/icons/models/icons.php:78
+msgid "File not found"
+msgstr "Filen ikke fundet"
+
+#: modules/icons/models/icons.php:83
+msgid "Cannot get image"
+msgstr "Kan ikke få billede"
+
+#: modules/icons/models/icons.php:94
+msgid "cannot insert to table"
+msgstr "Kan ikke indsætte til table"
+
+#: modules/icons/models/icons.php:130
+msgid "Invalid ID"
+msgstr "Invalid ID"
+
+#: modules/marker/controller.php:6
+msgid "Empty data"
+msgstr "Tøm data"
+
+#: modules/marker/controller.php:53
+msgid "Marker Not Found"
+msgstr "Markør ikke fundet"
+
+#: modules/marker/controller.php:59
+msgid "Cannot remove marker"
+msgstr "Kan ikke flytte markør"
+
+#: modules/marker/controller.php:75
+msgid "Empty Marker"
+msgstr "Tøm markør"
+
+#: modules/marker/controller.php:81
+msgid "Database Error."
+msgstr "Database fejl."
+
+#: modules/marker/controller.php:143
+msgid "Empty or invalid marker ID"
+msgstr "Tom eller invalid markør ID"
+
+#: modules/marker/models/marker.php:38
+msgid "Please enter marker name"
+msgstr "Skriv venligst markør navn"
+
+#: modules/marker/models/marker.php:170
+msgid "Address is empty or not match"
+msgstr "Adressen er tom eller så matcher den ikke"
+
+#: modules/marker/views/marker.php:30
+msgid "Icon"
+msgstr "Ikon"
+
+#: modules/marker/views/marker.php:33
+#: modules/marker/views/tpl/markerForm.php:112
+msgid "Group"
+msgstr "Gruppe"
+
+#: modules/marker/views/marker.php:34
+msgid "Creation Date"
+msgstr "Skabelses dato"
+
+#: modules/marker/views/marker.php:36
+msgid "Uses On Map"
+msgstr "Bruges på kort"
+
+#: modules/marker/views/tpl/markerForm.php:83
+msgid "Marker Name"
+msgstr "Markør navn"
+
+#: modules/marker/views/tpl/markerForm.php:86
+msgid "Set Title as link"
+msgstr "Sæt titel som link"
+
+#: modules/marker/views/tpl/markerForm.php:90
+msgid "Set Marker Title As Link"
+msgstr "Sæt markær titel som link"
+
+#: modules/marker/views/tpl/markerForm.php:95
+msgid "Link For Title"
+msgstr "Link for titlen"
+
+#: modules/marker/views/tpl/markerForm.php:109
+msgid "Choose Marker Group"
+msgstr "Vælg markør gruppe"
+
+#: modules/marker/views/tpl/markerForm.php:115
+msgid "Marker Description"
+msgstr "Markør beskrivelse"
+
+#: modules/marker/views/tpl/markerForm.php:122
+msgid "Marker Icon"
+msgstr "Markør ikon"
+
+#: modules/marker/views/tpl/markerForm.php:126
+msgid "All Icons"
+msgstr "Alle ikoner"
+
+#: modules/marker/views/tpl/markerForm.php:133
+msgid "Search For Icons"
+msgstr "Søg for ikoner"
+
+#: modules/marker/views/tpl/markerForm.php:160
+msgid "Or Upload your icon"
+msgstr "Eller upload dit ikon"
+
+#: modules/marker/views/tpl/markerForm.php:167
+msgid "Marker Animation"
+msgstr "Markør animation"
+
+#: modules/marker/views/tpl/markerForm.php:171
+msgid "Enable Marker Animation"
+msgstr "Aktiver markør animation"
+
+#: modules/marker/views/tpl/markerForm.php:188
+msgid "Marker Coordinates"
+msgstr "Markør koordinator"
+
+#: modules/marker/views/tpl/markerForm.php:189
+msgid "if your don't know coordiates, leave this fields blank"
+msgstr "Hvis ikke du kender koordinaterne, så efterlad feltet blank"
+
+#: modules/marker/views/tpl/markerForm.php:192
+msgid "Lat."
+msgstr "Lat."
+
+#: modules/marker/views/tpl/markerForm.php:203
+msgid "Lng."
+msgstr "Lng."
+
+#: modules/marker/views/tpl/markerForm.php:214
+msgid "Add \"More info\" in description window"
+msgstr "Tilføj \"mere info\" i beskrivelses vinduet"
+
+#: modules/marker/views/tpl/markerForm.php:218
+msgid ""
+"If enabled - in description window by default will be only image or part of "
+"description, and added \"More Info\" link, when click on it - there will be "
+"full descrtiption"
+msgstr ""
+"Hvis aktiveret - I beskrivelses vinduet vil der kun være standard billeder "
+"eller en part af beskrivelsen, og der vil være tilføjet \"mere info\" link, "
+"ved klik på det - vil der være fuld beskrivelse"
+
+#: modules/marker/views/tpl/markerForm.php:222
+msgid "Fit icon in standard size"
+msgstr "Pas ikon i standard størrelse"
+
+#: modules/marker/views/tpl/markerForm.php:226
+msgid ""
+"If enabled - icon width will be always standard - 18, width - from "
+"proportion, this parameter is for retina display"
+msgstr ""
+"Hvis aktiveret - ikon bredden vil altid være standard - 18, bredde - fra "
+"propotion, vil parametrende for retina blive vist"
+
+#: modules/marker/views/tpl/markerList.php:16
+msgid "Back To Markers List"
+msgstr "Tilbage til markør listen"
+
+#: modules/marker/views/tpl/markerListAddress.php:3
+msgid "Latitude"
+msgstr "Breddegrad"
+
+#: modules/marker/views/tpl/markerListAddress.php:3
+msgid "Longitude"
+msgstr "længdegrad"
+
+#: modules/marker/views/tpl/markerListUsesOnMap.php:5
+msgid "No maps contain this marker"
+msgstr "Ingen kort indeholder denne markør"
+
+#: modules/marker_groups/controller.php:14
+msgid "Nothing To Save"
+msgstr "Intet at gemme"
+
+#: modules/marker_groups/controller.php:21
+msgid "Cannot Save Group"
+msgstr "Kan ikke gemme gruppe"
+
+#: modules/marker_groups/controller.php:29
+msgid "Group Not Found"
+msgstr "Gruppe ikke fundet"
+
+#: modules/marker_groups/controller.php:35
+msgid "Cannot remove group"
+msgstr "Kan ikke flytte gruppe"
+
+#: modules/marker_groups/views/tpl/groupsList.php:5
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: modules/marker_groups/views/tpl/groupsList.php:20
+msgid "Save Group"
+msgstr "Gem gruppe"
+
+#: modules/marker_groups/views/tpl/groupsList.php:22
+msgid "Group Title"
+msgstr "Gruppe titel"
+
+#: modules/marker_groups/views/tpl/groupsList.php:26
+msgid "Title For Group"
+msgstr "Titel for gruppe"
+
+#: modules/marker_groups/views/tpl/groupsList.php:30
+msgid "Group Description"
+msgstr "Gruppe beskrivelse"
+
+#: modules/marker_groups/views/tpl/groupsList.php:34
+msgid "Description For Goup"
+msgstr "Beskrivelse for gruppe"
+
+#: modules/marker_groups/views/tpl/groupsList.php:43
+msgid "Reset"
+msgstr "Nulstil"
+
+#: modules/options/controller.php:7
+msgid "Plugin was activated"
+msgstr "Plugin var aktiveret"
+
+#: modules/options/controller.php:17
+msgid "Very good! Now plugin will be updated."
+msgstr "Rigtig godt! Nu vil pluginet bliver opdateret."
+
+#: modules/options/controller.php:39
+msgid "Cannot Save Info"
+msgstr "Kan ikke gemme info"
+
+#: modules/options/controller.php:83
+msgid "Cannot Upload File"
+msgstr "Kan ikke uploade filen"
+
+#: modules/options/controller.php:92
+msgid "Cannot Copy File"
+msgstr "Kan ikke kopiere filen"
+
+#: modules/options/controller.php:101
+msgid "Wrong Format"
+msgstr "Forkert format"
+
+#: modules/options/mod.php:25
+msgid "General"
+msgstr "Generelt"
+
+#: modules/options/models/modules.php:33
+msgid "Module Updated"
+msgstr "Modul er opdateret"
+
+#: modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Modul opdatering fejlede"
+
+#: modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Fejl modul ID"
+
+#: modules/options/models/modules.php:173
+#: modules/options/models/modules.php:194
+msgid "Can not contact authorization server for now."
+msgstr "Kan ikke kontakte autorisations serveren lige nu"
+
+#: modules/options/models/modules.php:174
+#: modules/options/models/modules.php:195
+msgid "Please try again latter."
+msgstr "Prøv igen senere."
+
+#: modules/options/models/modules.php:175
+#: modules/options/models/modules.php:196
+msgid ""
+"If problem will not stop - please contact us using this form <a href="
+"\"http://readyshoppingcart.com/contacts/\" target=\"_blank\">http://"
+"readyshoppingcart.com/contacts/</a>."
+msgstr ""
+"Hvis problemet ikke stopper - Så kontakt os venligst via denne formel <a "
+"href=\"http://readyshoppingcart.com/contacts/\" target=\"_blank\">http://"
+"readyshoppingcart.com/contacts/</a>."
+
+#: modules/options/models/modules.php:178
+#: modules/options/models/modules.php:199
+msgid "Please enter activation key"
+msgstr "Indtast venligst aktivations nøglen"
+
+#: modules/options/models/modules.php:180
+#: modules/options/models/modules.php:201
+msgid "Empty plugin name"
+msgstr "Tøm Plugin navnet"
+
+#: modules/options/models/options.php:145
+msgid "Option "
+msgstr "Indstilling"
+
+#: modules/options/models/options.php:147
+msgid "Invalid option ID or Code"
+msgstr "Invalid indstilling ID eller Kode"
+
+#: modules/options/models/options.php:150
+msgid "Empty data to save option"
+msgstr "Tøm data for at gemme indstilling"
+
+#: modules/options/models/options.php:161
+msgid "Empty data to setup"
+msgstr "Tøm data for at opsætte"
+
+#: modules/options/views/tpl/deactivatePage.php:3
+msgid "Plugin deactivation"
+msgstr "Plugin deaktiveret"
+
+#: modules/options/views/tpl/deactivatePage.php:7
+msgid " - plugin deactivation"
+msgstr "- Plugin deaktiveret"
+
+#: modules/options/views/tpl/deactivatePage.php:30
+msgid "Delete All data include Maps and Markers"
+msgstr "Slet alt data inklusiv kort og markøre"
+
+#: modules/options/views/tpl/settingsTab.php:11
+msgid "Send anonym statistic?"
+msgstr "Send anonym statestik?"
+
+#: modules/options/views/tpl/settingsTab.php:16
+msgid "Marker Description window size"
+msgstr "Markør beskrivelses vindue størrelse"
+
+#: modules/options/views/tpl/settingsTab.php:19
+msgid "Width"
+msgstr "Bredde"
+
+#: modules/options/views/tpl/settingsTab.php:24
+msgid "Height"
+msgstr "Højde"
+
+#: modules/promo_ready/controller.php:8
+msgid "Information was saved. Thank you!"
+msgstr "Informationen var gemt. Tak!"
+
+#: modules/promo_ready/controller.php:30
+msgid "Information was saved. Thank you for your support!"
+msgstr "Informationen var gemt. Tak for din hjælp!"
+
+#: modules/promo_ready/mod.php:78
+msgid "Welcome to Ready! Ecommerce"
+msgstr "Velkommen til Ready! Ecommerce"
+
+#: modules/promo_ready/views/promo_ready.php:32
+msgid "Simple"
+msgstr "Enkelt"
+
+#: modules/promo_ready/views/promo_ready.php:33
+msgid "PRO Search"
+msgstr "PRO søgning"
+
+#: modules/promo_ready/views/promo_ready.php:34
+msgid "Ultra"
+msgstr "Ultra"
+
+#: modules/promo_ready/views/tpl/adminFooter.php:4
+#: modules/promo_ready/views/tpl/welcomePage.php:91
+msgid "Version"
+msgstr "Version"
+
+#: modules/promo_ready/views/tpl/adminFooter.php:11
+msgid "Support"
+msgstr "Hjælp"
+
+#: modules/promo_ready/views/tpl/adminSendStatNote.php:10
+msgid "No, don\\'t send"
+msgstr "Nej, Ikke send"
+
+#: modules/promo_ready/views/tpl/adminSendStatNote.php:27
+msgid "Yes, send statistics"
+msgstr "Ja, send statestikker"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:24
+msgid "Select markers list type"
+msgstr "Vælg markør liste type"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:26
+msgid "Select view of markers list on frontend from available list"
+msgstr "Vælg markør visningen vist på Frontend fra tilgængelig liste"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:31
+msgid "Markers list type"
+msgstr "Markør liste type"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:59
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:64
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:92
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:119
+msgid "Available in PRO"
+msgstr "Tilgængelig i PRO"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:75
+msgid "Select custom controls view"
+msgstr "Vælg standard styrings visning"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:77
+msgid "You can select custom view of map controls"
+msgstr "Du kan vælge standard visning af kort styring"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:82
+msgid "Custom controls"
+msgstr "Standard styring"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:102
+msgid "Select map stylization"
+msgstr "Vælg kort styling"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:104
+msgid "You can select style for your map to make it view unbelievable"
+msgstr "Du kan vælge styling til dit kort for at gøre det fantastisk"
+
+#: modules/promo_ready/views/tpl/proAdminPromoButtons.php:109
+msgid "Map Stylization"
+msgstr "Kort styling"
+
+#: modules/promo_ready/views/tpl/welcomePage.php:89
+msgid "Welcome to"
+msgstr "Velkommen til"
+
+#: modules/shortcodes/views/tpl/adminTextEditorPopup.php:85
+msgid "Product"
+msgstr "Produkt"
+
+#: modules/shortcodes/views/tpl/adminTextEditorPopup.php:92
+msgid "Insert"
+msgstr "Indsæt"
+
+#: modules/templates/mod.php:11
+msgid "Templates"
+msgstr "Skabeloner"
+
+#: modules/templates/views/tpl/noTemplates.php:1
+msgid "No Templates were found"
+msgstr "Ingen skabeloner var fundet"
+
+#: modules/templates/views/tpl/templatesTab.php:42
+msgid "Template Updated. Reload page to see results."
+msgstr "Skabeloner er opdateret. Opdater siden for at se resultat"
+
+#: modules/templates/views/tpl/templatesTab.php:71
+msgid "Activate"
+msgstr "Aktiver"
+
+#: modules/templates/views/tpl/templatesTab.php:72
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: modules/user/mod.php:41
+msgid "User Fields"
+msgstr "Bruger felt"
+
+#: modules/user/views/user.php:45
+msgid "Password Reset Error"
+msgstr "Kodeord nulstillings fejl"

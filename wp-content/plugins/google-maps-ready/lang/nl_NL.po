@@ -1,0 +1,1554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gmap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-19 10:02+0100\n"
+"PO-Revision-Date: 2014-08-19 15:30+0100\n"
+"Last-Translator: Jeroen Groothuismink <jeroen@groothuismink.nl>\n"
+"Language-Team: Jeroen Groothuismink <jeroengroothuismink@gmail.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: tr_TR\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: tr_TR\n"
+"X-Poedit-SearchPath-0: D:\\users\\P20661\\Documents\\Persoonlijk\\websites"
+"\\google-maps-ready\n"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:131
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/shortcodes/views/shortcodes.php:5
+msgid "Select"
+msgstr "Selecteer"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:170
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:179
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Voeg aanvinkbox toe"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:282
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:287
+msgid "Add Item"
+msgstr "Voeg onderdeel toe"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Voeg Radio button toe"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:311
+msgid "Dimensions"
+msgstr "Formaten"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:314
+msgid "width"
+msgstr "breedte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:316
+msgid "height"
+msgstr "hoogte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Klik om de velden \"id\" en \"class\" in te stellen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:324
+msgid "Attributes"
+msgstr "Attributen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Er zijn geen instelmogelijkheden voor deze module"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Toepassen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:95
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/marker.php:35
+msgid "Address"
+msgstr "Adres"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Bestemming"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Land"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Categorieen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "U hebt geen categorieen ingesteld"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Merken"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "U hebt geen merken ingesteld"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "BTW percentage"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Absoluut"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Niet geselecteerd"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:184
+msgid "class"
+msgstr "klasse"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/fieldAdapter.php:186
+msgid "id"
+msgstr "id"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/frame.php:142
+msgid "You have no permissions to view this page"
+msgstr "U hebt geen toestemming om deze pagina te bekijken"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/html.php:174
+msgid "Upload"
+msgstr "Upload"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/installer.php:274
+msgid " Page Content"
+msgstr "Pagina inhoud"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:78
+msgid "Can not create module directory. Try to set permission to "
+msgstr "Kan geen module map aanmaken. Probeer de rechten te zetten op "
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:106
+msgid "No modules were found in XML file"
+msgstr "Er zijn geen modules gevonden in het XML bestand"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:110
+msgid "Invalid XML file"
+msgstr "Foutief XML bestand"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:112
+msgid "No XML file were found"
+msgstr "Er zijn geen XML bestanden gevonden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:142
+msgid "Error Activate module"
+msgstr "Fout bij activeren module"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:271
+msgid "You need to activate"
+msgstr "U dient te activeren"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:273
+msgid "Just click"
+msgstr "Klik"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:274
+msgid "here"
+msgstr "hier"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:275
+msgid "and enter your activation code."
+msgstr "en voer uw activatie code in"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:369
+msgid "Error Deactivation module"
+msgstr "Fout bij deacticveren van de module"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/modInstaller.php:390
+msgid "Error Activating module"
+msgstr "Fout bij activeren van de module"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/table.php:264
+msgid "Nothig to update"
+msgstr "Niks om te updaten"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/table.php:281
+msgid "Database error. Please contact your developer."
+msgstr "Database fout. Neem aub contact op met de ontwikkelaar."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/access.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/htmltype.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/log.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules_type.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options_categories.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/gmap.php:188
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:76
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/marker.php:29
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:7
+msgid "ID"
+msgstr "ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/access.php:8
+msgid "Access"
+msgstr "Toegang"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/access.php:9
+msgid "Type_access"
+msgstr "Type_toegang"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules_type.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:10
+msgid "Label"
+msgstr "Label"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:7
+msgid "Template label"
+msgstr "Template label"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:67
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:8
+msgid "E-mail Subject"
+msgstr "E-mail onderwerp"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:9
+msgid "Body"
+msgstr "Berichttekst"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:9
+msgid "E-mail Body"
+msgstr "E-mail tekst"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:10
+msgid "Variables"
+msgstr "Variabelen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:10
+msgid "Template variables. They can be used in the body and subject"
+msgstr ""
+"Template variabelen. Ze kunnen gebruikt worden in de tekst en het onderwerp"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:11
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules.php:9
+msgid "Active"
+msgstr "Actief"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/email_templates.php:11
+msgid "If checked the notifications will be sent to receiver"
+msgstr "Indien aangevinkt zal het bericht verzonden worden aan de ontvanger"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:7
+msgid "Product ID"
+msgstr "Product ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/maps.php:9
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker_groups.php:9
+msgid "File name"
+msgstr "Bestandsnaam"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:9
+msgid "Real Path To File"
+msgstr "Werkelijk pad naar het bestand"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:10
+msgid "Mime Type"
+msgstr "Mime Type"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:11
+msgid "File Size"
+msgstr "Bestandsformaat"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:12
+msgid "Active Download"
+msgstr "Actieve download"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:13
+msgid "Upload Date"
+msgstr "Upload datum"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:14
+msgid "Download Limit"
+msgstr "Download limiet"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:15
+msgid "Period Limit"
+msgstr "Periode limiet"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:16
+msgid "Descritpion"
+msgstr "Beschrijving"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/files.php:17
+msgid "Type ID"
+msgstr "Type ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/htmltype.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options_categories.php:8
+msgid "Method"
+msgstr "Methode"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/htmltype.php:9
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules.php:12
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:12
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/marker.php:32
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:10
+msgid "Description"
+msgstr "Beschrijving"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/icons.php:8
+msgid "Icon ID"
+msgstr "Pictogram ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/icons.php:9
+msgid "Icon Title"
+msgstr "Pictogram titel"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/icons.php:10
+msgid "Icon Description"
+msgstr "Pictogram beschrijving"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/icons.php:11
+msgid "File Path"
+msgstr "Bestandsnaam"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/log.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:13
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:78
+msgid "Type"
+msgstr "Type"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/log.php:9
+msgid "Data"
+msgstr "Data"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/log.php:10
+msgid "Date created"
+msgstr "Datum aangemaakt"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/log.php:11
+msgid "User ID"
+msgstr "Gebruiker ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/log.php:12
+msgid "Order ID"
+msgstr "Order ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/maps.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker_groups.php:8
+msgid "Map ID"
+msgstr "Map ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/maps.php:10
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:9
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker_groups.php:10
+msgid "Description Of Map"
+msgstr "Beschrijving van de kaart"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/maps.php:11
+msgid "Html Parametrs"
+msgstr "Html Parameters"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/maps.php:12
+msgid "Create Date"
+msgstr "Aanmaakdatum"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/maps.php:13
+msgid "Additional Params"
+msgstr "Aanvullende paramaters"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:10
+msgid "X coordinate if marker(lng)"
+msgstr "X coordinaat van de locatie (lng)"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:11
+msgid "Y coordinate of marker(lat)"
+msgstr "Y coordinaat van de locatie (lat)"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:12
+msgid "Path of icon file"
+msgstr "Pad van het pictogram bestand"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:13
+msgid "Map Id"
+msgstr "Kaart ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:14
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:176
+msgid "Marker Address"
+msgstr "Locatie adres"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:15
+msgid "Id of Marker's group"
+msgstr "ID van groep van locaties"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:16
+msgid "Animation"
+msgstr "Animatie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:17
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules.php:10
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:11
+msgid "Params"
+msgstr "Parameters"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/marker.php:18
+msgid "Creation date"
+msgstr "Aanmaak datum"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules.php:11
+msgid "Has Tab"
+msgstr "Has Tab"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules.php:13
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/usage.php:9
+msgid "Code"
+msgstr "Code"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Externe plugin bestandsmap"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:9
+msgid "Value"
+msgstr "Waarde"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:14
+msgid "Category ID"
+msgstr "Categorie ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:15
+msgid "Sort Order"
+msgstr "Sorteer volgorde"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/options.php:16
+msgid "Value Type"
+msgstr "Waarde type"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:7
+msgid "User Id"
+msgstr "Gebruiker Id"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:8
+msgid "User E-mail"
+msgstr "Gebruiker E-mail"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:8
+msgid "Subscriber E-mail"
+msgstr "abonnee email"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:9
+msgid "User Name"
+msgstr "Gebruikersnaam"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:9
+msgid "User Name If User Is Registered"
+msgstr "Gebruikersnaam als gebruiker geregistreerd is"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:10
+msgid "Subscription Date"
+msgstr "abboneer datum"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:10
+msgid "Date Of Subscription"
+msgstr "Datum van abboneren"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:11
+msgid "Active Subscription"
+msgstr "actief abbonement"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:11
+msgid "If Is Not Checked user will not get any newsletters"
+msgstr ""
+"Als niet is aangevinkt, dan zal de gebruiker geen nieuwsbrieven ontvangen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:12
+msgid "Token"
+msgstr "Token"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/subscribers.php:13
+msgid "IP address"
+msgstr "IP adres"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/usage.php:8
+msgid "Usage id"
+msgstr "Verbruiks id"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/classes/tables/usage.php:10
+msgid "Visits Count"
+msgstr "Aantal bezoeken"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/controller.php:7
+msgid "Your name field is required."
+msgstr "Uw naam is verplicht"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/controller.php:8
+msgid "Your website field is required."
+msgstr "Uw website is verplicht"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/controller.php:9
+msgid "Your e-mail field is required."
+msgstr "Uw e-mail is verplicht"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/controller.php:10
+msgid "Subject field is required."
+msgstr "Onderwerp is verplicht"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/controller.php:11
+msgid "You must select a valid category."
+msgstr "U moet een correcte categorie selecteren"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/controller.php:12
+msgid "Message field is required."
+msgstr "Bericht is verplicht in te vullen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/controller.php:29
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/controller.php:32
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/controller.php:70
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/controller.php:113
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:22
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:57
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:79
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:119
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/controller.php:18
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/controller.php:33
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/deactivatePage.php:34
+msgid "Done"
+msgstr "Klaar"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/mod.php:10
+msgid "Settings"
+msgstr "Instellingen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/adminmenu.php:13
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/optionsAdminPage.php:29
+msgid "Add New Map"
+msgstr "Voeg nieuwe kaart toe"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/adminmenu.php:14
+msgid "All Maps"
+msgstr "Alle kaarten"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/adminmenu.php:15
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/controller.php:100
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/gmap.php:192
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/addMap.php:13
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:12
+msgid "Markers"
+msgstr "Locaties"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/adminmenu.php:16
+msgid "Marker Groups"
+msgstr "Locatie groepen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/adminmenu.php:17
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/settingsTab.php:3
+msgid "Plugin Settings"
+msgstr "Plugin instellingen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/adminmenu.php:25
+msgid "Ready! Google Maps"
+msgstr "Ready! Google Maps"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:29
+msgid "FAQ"
+msgstr "FAQ"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:31
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:38
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:39
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:40
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:41
+msgid "-"
+msgstr "-"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:32
+msgid ""
+"It is a complete solution for full-fledged shop. Our plugin is integrated in "
+"this free WordPress theme."
+msgstr ""
+"Het is een complete oplossing voor een volledig uitgeruste winkel. Onze "
+"plugin is ingepast in dit gratie WordPress thema."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:33
+msgid "To launch your shop, you need to complete 2 points:"
+msgstr "Om uw winkel gereed te maken moet u 2 dingen doen:"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:35
+msgid "Set up theme and plugin"
+msgstr "Thema en plugin instellen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:36
+msgid "Add products"
+msgstr "Producten toevoegen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:42
+msgid "- Video Tutorials"
+msgstr "- video uitleg"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:47
+msgid "System Information"
+msgstr "Systeem informatie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:60
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:64
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:77
+msgid "Name"
+msgstr "Naam"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:64
+msgid "John Doe"
+msgstr "John Doe"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:65
+msgid "E-mail"
+msgstr "E-mail"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:65
+msgid "mail@example.com"
+msgstr "mail@example.com"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:66
+msgid "Website"
+msgstr "Website"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:66
+msgid "http://yoursite.com"
+msgstr "http://yoursite.com"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:68
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:81
+msgid "Category"
+msgstr "Categorie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:69
+msgid "Message"
+msgstr "Bericht"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:69
+msgid ""
+"Type your meassage here. If you have any troubles, please describe it "
+"accurately. If it`s possibe send us: (text of the errors, print screen of "
+"errors, link to the webpages where you try to insert products, and any other "
+"information)"
+msgstr ""
+"Type uw bericht hier. Als u problemen heeft, beschrijf het zo duidelijk "
+"mogelijk. Indien mogelijk zend ons: (foutmeldingen, schermprintjes van de "
+"fouten, link naar de website waar u probeert de producten toe te voegen en "
+"andere informatie)"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:75
+msgid "Send e-mail"
+msgstr "Verzend email"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:85
+msgid "News and Info"
+msgstr "Nieuws en informatie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:87
+msgid "- If you like our plugin, please rate it five stars at"
+msgstr "- Als u deze plugin goed vind, geef ons er dan 5 sterren voor"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:88
+msgid ""
+"- If you don't, please contact us, showing us our imperfection. We'll try to "
+"improve our service."
+msgstr ""
+"- Als u dat niet vind, neem dan aub contact met ons op, vertel ons wat u "
+"niet goed vind. Wij zullen dan proberen onze service te verbeteren."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/adminmenu/views/tpl/mainpage.php:89
+msgid "- New "
+msgstr "- Nieuw"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/controller.php:11
+msgid "Maps"
+msgstr "Kaarten"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/controller.php:47
+msgid "Marker"
+msgstr "Locatie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/controller.php:133
+msgid "Missing File"
+msgstr "Missend bestand"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/controller.php:164
+msgid ""
+"File should contain more then 1 row, at least 1 row should be for headers"
+msgstr ""
+"Bestand moet meer dan 1 rij bevatten, tenminste 1 rij moet beschikbaar zijn "
+"voor de koppen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/controller.php:166
+msgid "Empty data in file"
+msgstr "Lege data in het bestand"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/models/csv.php:122
+msgid "Can not detect import list type"
+msgstr "Kan import lijst type niet detecteren"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/models/csv.php:124
+msgid "Can not find fields names"
+msgstr "Kan de veldnamen niet vinden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/views/tpl/csvSettitngsBlockHtml.php:1
+msgid "Export / Import"
+msgstr "Exporteer / Importeer"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/views/tpl/csvSettitngsBlockHtml.php:4
+msgid "Export Maps"
+msgstr "Exporteer kaarten"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/views/tpl/csvSettitngsBlockHtml.php:8
+msgid "Export Markers"
+msgstr "Exporteer kaarten"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/views/tpl/csvSettitngsBlockHtml.php:15
+msgid "Export maps with markers"
+msgstr "Exporteer kaarten met locaties"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/csv/views/tpl/csvSettitngsBlockHtml.php:34
+msgid "Overwrite data with same names"
+msgstr "Overschrijf data met dezelfde namen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/controller.php:13
+msgid "Map data not found"
+msgstr "Kaart niet gevonden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/controller.php:65
+msgid "Nothing to remove"
+msgstr "Niets te verwijderen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/models/gmap.php:57
+msgid "Please enter Map Name"
+msgstr "Voer de kaart naam in"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/models/gmap.php:80
+msgid "Empty Params"
+msgstr "Lege parameters"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/gmap.php:189
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/marker.php:31
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:8
+msgid "Title"
+msgstr "Titel"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/gmap.php:191
+msgid "Html options"
+msgstr "Html opties"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/gmap.php:193
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/marker.php:37
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:13
+msgid "Operations"
+msgstr "Operaties"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/addMap.php:9
+msgid "Add Marker"
+msgstr "Voeg locatie toe"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/addMap.php:17
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:18
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:8
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:40
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/settingsTab.php:38
+msgid "Save"
+msgstr "Bewaar"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/addMap.php:21
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:22
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:11
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerListOperations.php:7
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:39
+msgid "Remove"
+msgstr "Verwijder"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/addMap.php:30
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:31
+msgid "Map Properties"
+msgstr "Kaart eigenschappen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/addMap.php:34
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:35
+msgid "Save Map"
+msgstr "Sla kaart op"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:8
+msgid "Add New Marker"
+msgstr "Voeg locatie toe"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:59
+msgid "Map"
+msgstr "Kaart"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:71
+msgid "Markers List"
+msgstr "Locatielijst"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/editMaps.php:78
+msgid "Lat / Lon"
+msgstr "Lat / Lon"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:6
+msgid "Title For Map"
+msgstr "Titel van de kaart"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:9
+msgid "Map Name"
+msgstr "Kaart naam"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:30
+msgid "Width for map in pixels or percent"
+msgstr "Breedte van de kaart in pixels of percentages"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:37
+msgid "Width measure units, height will always be in px"
+msgstr "Breedte maat eenheden, hoogte is altijd in px"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:41
+msgid "Map Width"
+msgstr "Kaart breedte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:50
+msgid "Height For Map In Pixels"
+msgstr "Hoogte van de kaart in pixels"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:54
+msgid "Map Height"
+msgstr "Kaart hoogte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:70
+msgid "Enable Zoom Control In Map"
+msgstr "Zet zoom/bedienings paneel aan"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:74
+msgid "Enable Zoom/Control  Panel"
+msgstr "Zet zoom/bedienings paneel aan"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:80
+msgid "Enable Mouse Zoom In Map"
+msgstr "Zet muis zoom/bedienings paneel aan"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:87
+msgid "Enable Mouse Zoom/Control  Panel"
+msgstr "Zet muis zoom/bedienings paneel aan"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:96
+msgid "Default Zoom For Map"
+msgstr "Standaard zoom niveau voor de kaart"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:100
+msgid "Map Zoom Level"
+msgstr "Kaart zoom niveau"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:109
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:156
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:169
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:181
+msgid "Select Map Display Mode"
+msgstr "Selecteer de kaart weergave modus"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:113
+msgid "Map Type"
+msgstr "Kaart type"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:123
+msgid "Select Map Display Language"
+msgstr "Selecteer kaart taal"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:127
+msgid "Map Language"
+msgstr "Kaart taal"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:135
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:139
+msgid "Map Align"
+msgstr "Kaart uitlijning"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:160
+msgid "Map Margin"
+msgstr "Kaart margin"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:173
+msgid "Border Color"
+msgstr "Kaart kleur"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:185
+msgid "Border Width"
+msgstr "Rand kleur"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:189
+msgid "Markers Infowindows Size"
+msgstr "Pictogrammen Informatiescherm formaat"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:190
+msgid "In Pixels"
+msgstr "In Pixels"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:196
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:201
+msgid "InfoWindow Width"
+msgstr "Informatiescherm breedte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:210
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapForm.php:215
+msgid "InfoWindow Height"
+msgstr "Informatiescherm hoogte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapListHtmlOptions.php:10
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:76
+msgid "Shortcode"
+msgstr "Verkorte code"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapListOperations.php:3
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerListOperations.php:3
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsTable.php:35
+msgid "Edit"
+msgstr "Wijzig"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapListOperations.php:7
+msgid "Delete"
+msgstr "Verwijder"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap/views/tpl/mapPreview.php:3
+msgid "Map not found"
+msgstr "Kaart niet gevonden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap_widget/mod.php:18
+msgid "Displays Most Viewed Products"
+msgstr "Geeft meest bekeken producten weer"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap_widget/mod.php:23
+msgid "Google Maps Ready!"
+msgstr "Google Maps Ready!"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap_widget/views/gmap_widget.php:15
+msgid "You have no maps"
+msgstr "U hebt geen kaarten"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap_widget/views/tpl/form.php:6
+msgid "Select map"
+msgstr "Selecteer kaart"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap_widget/views/tpl/form.php:14
+msgid "Widget Map width"
+msgstr "Widget kaart breedte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap_widget/views/tpl/form.php:21
+msgid "Widget Map height"
+msgstr "Widget kaart hoogte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap_widget/views/tpl/form.php:28
+msgid "Display as image"
+msgstr "Weergeven als plaatje"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/gmap_widget/views/tpl/form.php:36
+msgid ""
+"Map will be displayed as image at sidebar, on click - will be opened in popup"
+msgstr ""
+"De kaart wordt weergegeven als plaatje in de zijbalk, bij aanklikken zal "
+"deze geopend worden in een popup"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/icons/controller.php:20
+msgid "Empty url"
+msgstr "Lege url"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/icons/models/icons.php:28
+msgid "Icon no found"
+msgstr "Pictogram niet gevonden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/icons/models/icons.php:78
+msgid "File not found"
+msgstr "Bestand niet gevonden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/icons/models/icons.php:83
+msgid "Cannot get image"
+msgstr "Kan het plaatje niet vinden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/icons/models/icons.php:94
+msgid "cannot insert to table"
+msgstr "Kan niet in de tabel invoegen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/icons/models/icons.php:130
+msgid "Invalid ID"
+msgstr "Foutieve ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:6
+msgid "Empty data"
+msgstr "Lege data"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:53
+msgid "Marker Not Found"
+msgstr "Locatie niet gevonden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:59
+msgid "Cannot remove marker"
+msgstr "Kan de locatie niet verwijderen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:75
+msgid "Empty Marker"
+msgstr "Lege locatie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:81
+msgid "Database Error."
+msgstr "Database fout."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/controller.php:143
+msgid "Empty or invalid marker ID"
+msgstr "Lege of foutieve locatie ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/models/marker.php:38
+msgid "Please enter marker name"
+msgstr "Voeg de locatie naam in"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/models/marker.php:170
+msgid "Address is empty or not match"
+msgstr "Adres is leeg of niet gevonden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/marker.php:30
+msgid "Icon"
+msgstr "Pictogram"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/marker.php:33
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:112
+msgid "Group"
+msgstr "Groep"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/marker.php:34
+msgid "Creation Date"
+msgstr "Aanmaak datum"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/marker.php:36
+msgid "Uses On Map"
+msgstr "Gebruik op de kaart"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:83
+msgid "Marker Name"
+msgstr "Locatie naam"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:86
+msgid "Set Title as link"
+msgstr "Stel de titel als link in"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:90
+msgid "Set Marker Title As Link"
+msgstr "Stel locatie titel als link in"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:95
+msgid "Link For Title"
+msgstr "Link voor de titel"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:109
+msgid "Choose Marker Group"
+msgstr "Kies de locatie groep"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:115
+msgid "Marker Description"
+msgstr "Locatie beschrijving"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:122
+msgid "Marker Icon"
+msgstr "Locatie pictogram"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:126
+msgid "All Icons"
+msgstr "Alle pictogrammen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:133
+msgid "Search For Icons"
+msgstr "Zoek naar pictogrammen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:160
+msgid "Or Upload your icon"
+msgstr "Of upload uw pictogram"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:167
+msgid "Marker Animation"
+msgstr "Locatie animatie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:171
+msgid "Enable Marker Animation"
+msgstr "Stel locatie animatie in"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:188
+msgid "Marker Coordinates"
+msgstr "Locatie coördinaten"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:189
+msgid "if your don't know coordiates, leave this fields blank"
+msgstr "als u de coordinaten niet weet, laat dit veld dan leeg"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:192
+msgid "Lat."
+msgstr "Lat."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:203
+msgid "Lng."
+msgstr "Lng."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:214
+msgid "Add \"More info\" in description window"
+msgstr "Voeg \"Meer informatie\" in, in het beschrijvingen scherm"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:218
+msgid ""
+"If enabled - in description window by default will be only image or part of "
+"description, and added \"More Info\" link, when click on it - there will be "
+"full descrtiption"
+msgstr ""
+"Als aangezet - in het beschrijvingen scherm zal standaard alleen een plaatje "
+"of deel van de beschrijving en toegevoegd een  \"Meer informatie\" link. Als "
+"je daar op klikt volgt een volledige beschrijving."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:222
+msgid "Fit icon in standard size"
+msgstr "Verklein pictogram tot standaard formaat"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerForm.php:226
+msgid ""
+"If enabled - icon width will be always standard - 18, width - from "
+"proportion, this parameter is for retina display"
+msgstr ""
+"Als aangevinkt - pictogram zal altijd standaard - 18, breedte krijgen - "
+"proportioneel, deze parameter is voor retina weergeven"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerList.php:16
+msgid "Back To Markers List"
+msgstr "Terug naar de locatie lijsten"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerListAddress.php:3
+msgid "Latitude"
+msgstr "Latitude"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerListAddress.php:3
+msgid "Longitude"
+msgstr "Longitude"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker/views/tpl/markerListUsesOnMap.php:5
+msgid "No maps contain this marker"
+msgstr "Er zijn geen kaarten met deze locatie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/controller.php:14
+msgid "Nothing To Save"
+msgstr "Niks om op te slaan"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/controller.php:21
+msgid "Cannot Save Group"
+msgstr "Kan de groep niet opslaan"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/controller.php:29
+msgid "Group Not Found"
+msgstr "Groep niet gevonden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/controller.php:35
+msgid "Cannot remove group"
+msgstr "Kan de groep niet verwijderen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:5
+msgid "Add New"
+msgstr "Voeg nieuwe toe"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:20
+msgid "Save Group"
+msgstr "Sla de groep op"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:22
+msgid "Group Title"
+msgstr "Groep titel"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:26
+msgid "Title For Group"
+msgstr "Titel van de groep"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:30
+msgid "Group Description"
+msgstr "Groep omschrijving"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:34
+msgid "Description For Goup"
+msgstr "Beschrijving van de groep"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/marker_groups/views/tpl/groupsList.php:43
+msgid "Reset"
+msgstr "Herstel"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/controller.php:7
+msgid "Plugin was activated"
+msgstr "Plugin is geactiveerd"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/controller.php:17
+msgid "Very good! Now plugin will be updated."
+msgstr "Heel goed! De plugin zal geupdate worden."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/controller.php:39
+msgid "Cannot Save Info"
+msgstr "Kan de informatie niet opslaan"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/controller.php:83
+msgid "Cannot Upload File"
+msgstr "Kan het bestand niet opslaan"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/controller.php:92
+msgid "Cannot Copy File"
+msgstr "Kan het plaatje niet kopieëren"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/controller.php:101
+msgid "Wrong Format"
+msgstr "Fout formaat"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/mod.php:27
+msgid "General"
+msgstr "Algemeen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:33
+msgid "Module Updated"
+msgstr "Module geupdate"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Update van de module is mislukt"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Foutieve module ID"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:173
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:194
+msgid "Can not contact authorization server for now."
+msgstr "Kan nu geen verbinding krijgen met de autorisatie server."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:174
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:195
+msgid "Please try again latter."
+msgstr "Probeer het later opnieuw aub"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:175
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:196
+msgid ""
+"If problem will not stop - please contact us using this form <a href="
+"\"http://readyshoppingcart.com/contacts/\" target=\"_blank\">http://"
+"readyshoppingcart.com/contacts/</a>."
+msgstr ""
+"Als de problemen aanhouden - Neem dan aub contact met ons op via die "
+"formulier: <a href=\"http://readyshoppingcart.com/contacts/\" target=\"_blank"
+"\">http://readyshoppingcart.com/contacts/</a>."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:178
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:199
+msgid "Please enter activation key"
+msgstr "Voer de activatie sleutel in"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:180
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/modules.php:201
+msgid "Empty plugin name"
+msgstr "Lege plugin naam"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/options.php:145
+msgid "Option "
+msgstr "Optie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/options.php:147
+msgid "Invalid option ID or Code"
+msgstr "Foutieve optie ID of Code"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/options.php:150
+msgid "Empty data to save option"
+msgstr "Geen gegevens om de optie op te slaan"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/models/options.php:161
+msgid "Empty data to setup"
+msgstr "Geen gegevens voor de setup"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/deactivatePage.php:3
+msgid "Plugin deactivation"
+msgstr "Plugin deactivatie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/deactivatePage.php:7
+msgid " - plugin deactivation"
+msgstr " - plugin deactivatie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/deactivatePage.php:30
+msgid "Delete All data include Maps and Markers"
+msgstr "Verwijder alle data inclusief Kaarten en Locaties"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/settingsTab.php:11
+msgid "Send anonym statistic?"
+msgstr "Verzend anonieme statistieken?"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/settingsTab.php:16
+msgid "Marker Description window size"
+msgstr "Locatie beschrijving scherm breedte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/settingsTab.php:19
+msgid "Width"
+msgstr "Breedte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/options/views/tpl/settingsTab.php:24
+msgid "Height"
+msgstr "Hoogte"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/controller.php:8
+msgid "Information was saved. Thank you!"
+msgstr "De informatie is opgeslagen. Dank u!"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/controller.php:30
+msgid "Information was saved. Thank you for your support!"
+msgstr "De informatie is opgeslagen. Bedankt voor uw medewerking!"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/mod.php:78
+msgid "Welcome to Ready! Ecommerce"
+msgstr "Welkom bij Ready! Ecommerce"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/promo_ready.php:32
+msgid "Simple"
+msgstr "Simpel"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/promo_ready.php:33
+msgid "PRO Search"
+msgstr "PRO zoeken"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/promo_ready.php:34
+msgid "Ultra"
+msgstr "Ultra"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/adminFooter.php:4
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/welcomePage.php:91
+msgid "Version"
+msgstr "Versie"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/adminFooter.php:11
+msgid "Support"
+msgstr "Hulp"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/adminSendStatNote.php:10
+msgid "No, don\\'t send"
+msgstr "Nee, verzend niet"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/adminSendStatNote.php:27
+msgid "Yes, send statistics"
+msgstr "Ja, verzend statistieken"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:24
+msgid "Select markers list type"
+msgstr "Selecteer locatie lijst type"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:26
+msgid "Select view of markers list on frontend from available list"
+msgstr ""
+"Selecteer overzicht van locatie lijst voor voorkant uit beschikbare lijst"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:31
+msgid "Markers list type"
+msgstr "Locatie lijst type"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:59
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:64
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:92
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:119
+msgid "Available in PRO"
+msgstr "Beschikbaar in PRO"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:75
+msgid "Select custom controls view"
+msgstr "Selecteer eigen bediening van de view"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:77
+msgid "You can select custom view of map controls"
+msgstr "U kunt een eigen weergave van de kaart bediening selecteren"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:82
+msgid "Custom controls"
+msgstr "Eigen bedieniningen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:102
+msgid "Select map stylization"
+msgstr "Selecteer kaart weergave"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:104
+msgid "You can select style for your map to make it view unbelievable"
+msgstr ""
+"U kunt een stijl selecteren voor uw kaart om de weergave fantastisch te maken"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/proAdminPromoButtons.php:109
+msgid "Map Stylization"
+msgstr "Kaart weergave"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/promo_ready/views/tpl/welcomePage.php:89
+msgid "Welcome to"
+msgstr "Welkom bij"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:85
+msgid "Product"
+msgstr "Product"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/shortcodes/views/tpl/adminTextEditorPopup.php:92
+msgid "Insert"
+msgstr "Invoegen"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/templates/mod.php:11
+msgid "Templates"
+msgstr "Templates"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/templates/views/tpl/noTemplates.php:1
+msgid "No Templates were found"
+msgstr "Er zijn geen templates gevonden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/templates/views/tpl/templatesTab.php:42
+msgid "Template Updated. Reload page to see results."
+msgstr "Template geupdate. Herlaad de pagina om het resultaat te zien."
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/templates/views/tpl/templatesTab.php:71
+msgid "Activate"
+msgstr "Activeer"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/templates/views/tpl/templatesTab.php:72
+msgid "Deactivate"
+msgstr "Deactiveer"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/user/mod.php:41
+msgid "User Fields"
+msgstr "Gebruiker velden"
+
+#: D:\users\P20661\Documents\Persoonlijk\websites\google-maps-ready/modules/user/views/user.php:45
+msgid "Password Reset Error"
+msgstr "Wachtwoord herstel fout"
+
+#~ msgid "Ip address added"
+#~ msgstr "Ip adres toegevoegd"
+
+#~ msgid "User added"
+#~ msgstr "Gebruiker toegevoegd"
+
+#~ msgid "Ip address removed"
+#~ msgstr "Ip adres verwijderd"
+
+#~ msgid "User removed"
+#~ msgstr "Gebruiker verwijderd"
+
+#~ msgid "Role change"
+#~ msgstr "Verandering van rol"
+
+#~ msgid "Error writing to database"
+#~ msgstr "Foutmelding bij schrijven naar de database"
+
+#~ msgid "Field is empty"
+#~ msgstr "Veld is leeg"
+
+#~ msgid "This Ip address already exists"
+#~ msgstr "Dit Ip adres bestaat al"
+
+#~ msgid "This User already exists"
+#~ msgstr "Deze gebruiker bestaat al"
+
+#~ msgid "Element "
+#~ msgstr "Element "
+
+#~ msgid "IP Address whitelist"
+#~ msgstr "IP Adres whitelist"
+
+#~ msgid "Users whitelist"
+#~ msgstr "Gebruikers whitelist"
+
+#~ msgid "Restrict By Role"
+#~ msgstr "Beperk per rol"
+
+#~ msgid "IP Address"
+#~ msgstr "IP Adres"
+
+#~ msgid "remove IP Address"
+#~ msgstr "Verwijder IP adres"
+
+#~ msgid "add Ip address"
+#~ msgstr "Voeg IP adres toe"
+
+#~ msgid "Users"
+#~ msgstr "Gebruikers"
+
+#~ msgid "remove User"
+#~ msgstr "verwijder gebruiker"
+
+#~ msgid "add User"
+#~ msgstr "voeg gebruiker toe"
+
+#~ msgid "<span class='gmpIcon gmpIconSuccess'></span>"
+#~ msgstr "<span class='gmpIcon gmpIconSuccess'></span>"
+
+#~ msgid "There is no default for this option and current template"
+#~ msgstr ""
+#~ "Er is geen standaard instelling voor deze optie en voor de huidige "
+#~ "template"
+
+#~ msgid "Empty option code"
+#~ msgstr "Lege optie code"
+
+#~ msgid "There are no Bg slider module installed"
+#~ msgstr "Er is geen Bg slider module geinstalleerd"
+
+#~ msgid "Unable to remove image"
+#~ msgstr "Niet mogelijk om de afbeelding te verwijderen"
+
+#~ msgid "Ready! Ecommerce - Plugin deactivation"
+#~ msgstr "Ready! Ecommerce - Plugin deactivatie"
+
+#~ msgid "Ready! Google Maps Plugin"
+#~ msgstr "Ready! Google Maps Plugin"
+
+#~ msgid "Map Title"
+#~ msgstr "Kaart titel"
+
+#~ msgid "Select Icon"
+#~ msgstr "Selecteer pictogram"
+
+#~ msgid "Type address"
+#~ msgstr "Type adres"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuleer"
+
+#~ msgid "Cannot save map"
+#~ msgstr "Kan de kaart niet opslaan"
+
+#~ msgid "cannot add makrkers"
+#~ msgstr "Kan geen locaties toevoegen"
+
+#~ msgid "Refresh"
+#~ msgstr "Ververs"
+
+#~ msgid "Id"
+#~ msgstr "Id"
+
+#~ msgid "Save Changes"
+#~ msgstr "Sla wijzigingen op"
+
+#~ msgid "Update Marker"
+#~ msgstr "Update locatie"
+
+#~ msgid "Preview changes"
+#~ msgstr "Voorbeeld van de wijzigingen"
+
+#~ msgid "Send anonymous statistic?"
+#~ msgstr "Verzend anonieme statistieken?"

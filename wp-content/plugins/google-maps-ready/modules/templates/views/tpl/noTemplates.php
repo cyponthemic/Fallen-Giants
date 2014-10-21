@@ -1,0 +1,1 @@
+<?php langGmp::_e('No Templates were found')?>
