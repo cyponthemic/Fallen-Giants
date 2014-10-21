@@ -80,11 +80,12 @@ background: black !important;
 	
 }
 .mainlogo {
-margin-top: 200px;
-margin-left:30vw; 
+margin-top: 50vh;
+margin-left:50vw;
+transform: translate(-50%, -100%); 
 width: 40vw;
 }
-
+@media only screen and (max-width:800px) {.mainlogo {width: 80vw;}} /* min-width 641px, medium screens */
 
 .bgourstory {
 background-image: url(bg/ourstory.png);
