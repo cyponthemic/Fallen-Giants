@@ -15,6 +15,7 @@
 </head>
 
 <body <?php body_class(); ?>>
+<div id="wrapper">
 <link href='http://fonts.googleapis.com/css?family=Quicksand:400,700' rel='stylesheet' type='text/css'>
 <div class="contain-to-grid sticky">
 <div class="header-bg hide-for-small-only"></div>

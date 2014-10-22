@@ -16,4 +16,8 @@ function enqueue_child_theme_styles() {
 
 add_editor_style( get_stylesheet_uri());
 
-
+function remove_sticky_class($classes) {
+  $classes = array_diff($classes, array("sticky"));
+  return $classes;
+}
+add_filter('post_class','remove_sticky_class');

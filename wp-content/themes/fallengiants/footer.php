@@ -22,13 +22,16 @@
 
    
    
-   
+   <!--
+
 	<script src=" <?php echo get_stylesheet_directory_uri();?>/js/parallax.js"></script>
-	<script>var scene = document.getElementById('scene');	var parallax = new Parallax(scene);	</script>    
+	<script>var scene = document.getElementById('scene');	var parallax = new Parallax(scene);	</script> 
+-->   
    <!--  <script src=" <?php echo get_stylesheet_directory_uri();?>/js/vendor/modernizr.js"></script> -->
    <!--  <script src=" <?php echo get_stylesheet_directory_uri();?>/js/vendor/jquery.js"></script> -->
    <!-- <script src=" <?php echo get_stylesheet_directory_uri();?>/js/foundation.min.js"></script> -->
     <!-- <script>    $(document).foundation();     </script> -->
+</div>
 </body>
  
 </html>
