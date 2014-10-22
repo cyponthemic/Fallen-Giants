@@ -121,8 +121,9 @@ height: 1270px;
 margin-top: -700px;
 background-position: center bottom;
 background-repeat: repeat-x;
+background-size: 100%;
 }
-@media only screen and (min-width:1200px) {.bgourstoryend {background-size: 100%;}} /* min-width 641px, medium screens */
+@media only screen and (max-width:1000px) {.bgourstoryend {height: 100vw;margin-top: -30vw;}} /* min-width 641px, medium screens */
 
 
 .bgourwines {
@@ -196,7 +197,7 @@ border: 3px solid black;
 	background-image: url('bg/eagle.png');
 	background-repeat: no-repeat;
 	background-position: center top;
-	background-size: 20%;
+	background-size: 200px;
 }
 
 .entry-title {
