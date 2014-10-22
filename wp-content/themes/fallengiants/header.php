@@ -30,7 +30,7 @@
   
     <?php
       if ( has_nav_menu( 'header-menu-left' ) ) {
-      echo  '<img src="';
+      echo  '<img class="logo-header" src="';
       echo get_stylesheet_directory_uri();
       echo '/bg/logo.png">';
           wp_nav_menu( array(
