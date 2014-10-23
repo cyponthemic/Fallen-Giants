@@ -51,8 +51,8 @@ background: url("bg/header.png") top no-repeat;
 background: none;
 }
 .bghomepage {
-height: 100vh;
-background-size:  auto 100vh;
+/* height: 100vh; */
+background-size:  auto 100%;
 margin-top: -50px;
 } 
 }
@@ -87,11 +87,12 @@ background: black !important;
 .bghomepage {
 	position: relative;
 	width: 100%;
+	height: 1;
 	height: 90vh;
 	
-	background-image: url(bg/homev3.png);
-	background-size:  auto 90vh;
-	background-repeat:  no-repeat;
+	background-image: url(bg/homev3-extended.png);
+	background-size:  auto 100%;
+	background-repeat:  repeat-x;
 	background-position: center top;
 	border-bottom: solid black 1px;	
 	
@@ -100,6 +101,7 @@ background: black !important;
 position: absolute;
 top: 50%;
 left:50%;
+-ms-transform: translate(-50%,-50%);
  -webkit-transform:translate(-50%,-50%);
 transform: translate(-50%,-50%); 
 width: 40%;

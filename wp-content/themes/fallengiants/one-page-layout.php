@@ -6,7 +6,10 @@ Template Name: One page layout
  */
 
 get_header(); ?>
-<div class="bghomepage">
+<div id="bghomepage" class="bghomepage">
+
+
+
 <?php 	
  	echo  '<img class="mainlogo" src="';
       echo get_stylesheet_directory_uri();
