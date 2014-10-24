@@ -21,3 +21,42 @@ function remove_sticky_class($classes) {
   return $classes;
 }
 add_filter('post_class','remove_sticky_class');
+
+
+/* Showing attributes */
+
+function get_vintage(){
+$terms = get_the_terms( $product->id, 'pa_vintage');
+foreach ( $terms as $term ) { echo $term->name; }
+}
+
+function get_vineyard(){
+$terms = get_the_terms( $product->id, 'pa_vineyard');
+foreach ( $terms as $term ) { echo $term->name; }
+}
+
+function get_variety(){
+$terms = get_the_terms( $product->id, 'pa_variety');
+foreach ( $terms as $term ) { echo $term->name; }
+}
+
+function get_winery(){
+$terms = get_the_terms( $product->id, 'pa_winery');
+foreach ( $terms as $term ) { echo $term->name; }
+}
+
+function get_wine_title(){
+echo '<h3 class=winery-title>';
+get_winery();
+echo '</h3>';
+echo '<h3 class=vineyard-title><i>';
+get_vineyard();
+echo '</i></h3>';
+echo '<h3 class=variety-title>';
+get_variety();
+echo '</h3>';
+echo '<h3 class=vintage-title>';
+get_vintage();
+echo '</h3>';
+}
+/* add_action('woocommerce_before_single_product_summary','get_vintage'); */

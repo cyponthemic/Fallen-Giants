@@ -58,7 +58,7 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] )
 	</a>
 	</div>
 	<div class="large-4 large-offset-1 columns">
-		<h3><?php the_title(); ?></h3>
+		<?php get_wine_title(); ?>
 		
 		<p>
 		<?php

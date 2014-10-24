@@ -68,7 +68,7 @@ display: none;
 height: 10px;
 
 }
-nav *, .top-bar {
+/* nav *,  */.top-bar {
 background: black !important;
 }
 
@@ -162,7 +162,7 @@ background-position: center top;
 font-family: 'Quicksand', sans-serif;
 }
 
-h3 {
+h3,h1,H2 {
 	font-family: 'Quicksand', sans-serif;
 	font-weight: 300;
 }
@@ -222,4 +222,109 @@ margin: 0;
 #footer {
 	background-color: black;
 	height: 400px;
+}
+
+
+/* ECOMMERCE */
+.woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary,
+.woocommerce #content div.product div.images{
+	width: 100%;
+	padding: 10px;
+}
+.single-product-price>*{
+	float: right;
+}
+.single-product-price>*{
+	display: inline-block;
+	margin-right: 10px;
+	
+}
+.price-separator{
+	border: solid 1px rgba(0,0,0,0.5) !important;
+}
+.single-product-content{
+	margin-left: .9375rem !important;
+	margin-right: .9375rem !important;
+}
+.woocommerce-page button.button.alt{
+	background: rgba(255,255,255,0.5);
+	color: black;
+	text-shadow: none;
+	font-family: 'Quicksand', sans-serif;
+	text-transform: uppercase;
+	border: 2px solid black;
+
+}
+.woocommerce-page button.button.alt:hover{
+	background: rgba(255,255,255,1);
+	color: black;
+	text-shadow: none;
+
+}
+
+.woocommerce-page #content .quantity .minus,
+.woocommerce-page #content .quantity .plus{
+	background: rgba(255,255,255,0.5);
+}
+
+.tryalso {
+	margin-bottom: 20px;
+	/* border: 3px solid rgba(0,0,0,0.71); */
+	display: inline-flex;
+	flex-direction:column;
+	justify-content: center;
+	/* width: 150px; */
+	height: 50px;
+	
+}
+.tryalso >h3 {
+	font-size: 16px !important;
+}
+.upsell-label:hover{
+background-position-y: -20px;
+transition: 1s all;
+}
+.upsell-label {
+	margin: 10px;
+	height: 50px;
+	width: 40%;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position-y: 0px;
+	display: inline-block;
+	flex-direction:column;
+	justify-content: flex-end;
+	transition: 1s all;
+	
+}
+.upsell-label h3{
+	width: 100%;
+	text-align: center;
+	margin: 0 !important;
+	
+	
+}
+.upsell-label .vineyard{
+font-size: 16px;	
+}
+.upsell-label .variety{
+	font-size: 16px;
+	font-weight: normal !important;
+	text-transform: uppercase;
+	color: black;
+	text-shadow: 1px 1px 5px #cac3bb,-1px -1px 5px #cac3bb;
+		
+}
+.upsell-label:hover {
+}
+
+
+.woocommerce-tabs{
+	overflow:hidden;
+}
+a.anchor{display: block; position: relative; top: -100px; visibility: hidden;}
+#tab-description{
+	padding:20px !important;
+	
+	background-color: white;
 }
