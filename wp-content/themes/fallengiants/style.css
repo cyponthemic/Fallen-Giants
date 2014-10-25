@@ -109,45 +109,106 @@ width: 40%;
 @media only screen and (max-width:800px) {.mainlogo {width: 80%;}} /* min-width 641px, medium screens */
 
 .bgourstory {
-background-image: url(bg/ourstory.png);
+
 height: 632px;
 margin-bottom: -350px;
-background-position: center top;
+display: block;
+position: relative;
 }
+.bgourstory:after{
+content: "";
+opacity: 0.5;
+background-image: url(bg/ourstory.png);
+background-position: center top;
+background-repeat: no-repeat;
+background-size: 100%;
+height: 1000px;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+position: absolute;
+z-index: -1;
+}
+
+
 @media only screen and (min-width:1200px) {.bgourstory {background-size: 100%;}} /* min-width 641px, medium screens */
 
 .bgourstoryend {
-background-image: url(bg/ourstoryendv2.png);
-
-height: 1270px;
-margin-top: -700px;
-background-position: center bottom;
-background-repeat: repeat-x;
-background-size: 100%;
+height: 2000px;
+margin-top: -1500px;
+display: block;
+position: relative;
 }
-@media only screen and (max-width:1000px) {.bgourstoryend {height: 100vw;margin-top: -30vw;}} /* min-width 641px, medium screens */
+.bgourstoryend:after{
+content: "";
+opacity: 0.5;
+background-image: url(bg/ourstoryendv2.png);
+background-position: center bottom;
+background-repeat: no-repeat;
+background-size: 100%;
+height: 2000px;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+position: absolute;
+z-index: -2;
+}
+
+
+
+
+/* @media only screen and (max-width:1000px) {.bgourstoryend {height: 100vw;margin-top: -30vw;}} */ /* min-width 641px, medium screens */
 
 
 .bgourwines {
-background-image: url(bg/ourwines.png);
 height: 445px;
 margin-bottom: -300px;
-background-position: center top;
-background-repeat: no-repeat;
+display: block;
+position: relative;
 /* background-size: 100%; */
 }
 
-.bgourwinesend {
-background-image: url(bg/ourwinesend.png);
+.bgourwines:after{
+content: "";
+opacity: 0.5;
+background-image: url(bg/ourwines.png);
+background-position: center top;
+background-repeat: no-repeat;
+background-size: 100%;
+height: 1000px;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+position: absolute;
+z-index: -2;
+}
 
+.bgourwinesend {
 height: 775px;
 margin-top: -100px;
 background-position: center bottom;
 background-repeat: repeat-x;
 }
+.bgourstoryend:after{
+content: "";
+opacity: 0.5;
+background-image: url(bg/ourwinesend.png);
+background-position: center bottom;
+background-repeat: no-repeat;
+background-size: 100%;
+height: 2000px;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+position: absolute;
+z-index: -2;
+}
 
-
-@media only screen and (min-width:1000px) {.bgourwines {background-size: 100%;}} /* min-width 641px, medium screens */
+/* @media only screen and (min-width:1000px) {.bgourwines {background-size: 100%;}} */ /* min-width 641px, medium screens */
 
 .bgfindusend {
 background-image: url(bg/findusend.png);
