@@ -59,7 +59,9 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 		</div>
 	<!-- </div> -->
 	</div><!-- .summary -->
+	
 	</div>
+    </div></div>
 	<?php
 		/**
 		 * woocommerce_after_single_product_summary hook
@@ -68,7 +70,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 		 * @hooked woocommerce_upsell_display - 15
 		 * @hooked woocommerce_output_related_products - 20
 		 */
-		do_action( 'woocommerce_after_single_product_summary' );
+		woocommerce_output_product_data_tabs();
 	?>
 
 	<meta itemprop="url" content="<?php the_permalink(); ?>" />
@@ -76,4 +78,4 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 </div><!-- #product-<?php the_ID(); ?> -->
 
 
-<?php do_action( 'woocommerce_after_single_product' ); ?>
+
