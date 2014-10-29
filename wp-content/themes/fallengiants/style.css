@@ -16,6 +16,125 @@
 -------------------------------------------------------------- */
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 
+* {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+}
+
+
+.woocommerce-page button.button.alt{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	text-transform: uppercase;
+
+}
+
+.entry-title {
+	font-weight: 100;
+	letter-spacing: 3px;
+}
+
+a{
+color: rgba(250,250,250,1);
+}
+a:hover{
+	color: white;
+}
+.top-bar-section ul li>a {
+		text-transform: uppercase;
+		background: black !important;
+		letter-spacing: 1px;
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: 100;
+	letter-spacing: 3px;
+}
+
+h2 {
+	font-weight: 100;
+	text-transform: uppercase;
+	font-size: 30px;
+	letter-spacing: 3px;
+}
+
+h2 i {
+	font-weight: 100;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h4 {
+	font-size: 24px;
+	/* text-transform: uppercase; */
+	/* font-weight: 100; */
+}
+
+.winery-title,
+.vineyard-title,
+.vintage-title,
+.variety-title {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 18px;
+}
+
+#our-story p, .winescontent p {
+	font-weight: 100;
+	font-size: 18px;
+	text-align: justify ;
+}
+
+
+
+.entry-title {
+text-transform:  uppercase !important;
+}
+
+#cellar-door img {
+transition: all 1s;
+opacity: 0.9;
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+filter: grayscale(100%);
+	
+}
+
+#cellar-door img:hover {
+transition: all 1s;
+opacity: 1;
+-webkit-filter: grayscale(0%);
+-moz-filter: grayscale(0%);
+filter: grayscale(0%);
+	
+}
+
+iframe {
+	opacity: 0.5;
+	transition: all 1s;
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+iframe:hover {
+	transition: all 1s;
+	opacity: 1;
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	filter: grayscale(0%);
+}
+
+
+.aaa{ -webkit-filter: blur(3px); -moz-filter: blur(3px); -o-filter: blur(3px); -ms-filter: blur(3px); filter: blur(3px); }
+
+
+
+
 #wrapper
 {
     width: 100%;
@@ -27,8 +146,11 @@
 /* entypo */
 [class*="entypo-"]:before {
   font-family: 'entypo', sans-serif;
-  font-size: x-large;
+  font-size: 40px;
   padding-right: 10px;
+  position: relative;
+  top:10px;
+  color: white;
   
 }
 [class*="entypo-"]{
@@ -36,6 +158,7 @@ list-style: none;
 
 }
 html,body {
+	/* z-index: -1; */
 	background-color: #cac3bb;
 }
 .top-bar.expanded .title-area {
@@ -148,54 +271,68 @@ background-repeat: repeat-x;
 
 
 @media only screen and (min-width:1000px) {.bgourwines {background-size: 100%;}} /* min-width 641px, medium screens */
+.bgfindus {
+position: relative;
+margin-bottom: 200px;
+margin-top: 50px;}
 
+.bgfindus:after {
+content: " ";
+position: absolute;
+background-image: url(bg/cellardoorend.png);
+height: 500px;
+width: 100%;
+top: -171px;
+z-index: -1;
+}
 .bgfindusend {
 background-image: url(bg/findusend.png);
 height: 694px;
-margin-top: -50px;
+margin-top: -100px;
 background-position: center top;
 }
 @media only screen and (min-width:1200px) {.bgfindusend {background-size: 100%;}} /* min-width 641px, medium screens */
 
-a{
-color: rgba(0,0,0,0.6);
+.social >li {
+	display: inline-block;
+	
+}
+.social >li:before {
+font-size: 40px;
+line-height: 1;
+}
+#cellar-door hr, 
+#find-us hr {
+	opacity: 0;
 }
 
-* {
-font-family: 'Quicksand', sans-serif;
-}
-
-h3,h1,H2 {
-	font-family: 'Quicksand', sans-serif;
-	font-weight: 300;
-}
-
-p {
-	font-size: 18px;
-}
-
-h4 {
+#find-us h2{
 	font-size: 24px;
 }
-.top-bar-section ul li>a {
-	font-family: 'Quicksand', sans-serif;
-		background: black !important;
-}
-.entry-title {
-font-family: 'Quicksand', sans-serif;
-text-transform:  uppercase !important;
+
+#find-us ul{
+margin: 0;
 }
 
+[class*="entypo-"]>a {
+	padding-bottom: 5px;
+}
 .winerow {
 	padding-bottom: 100px;
 }
 
 .button {
-font-family: museo_slab500;
-background-color: rgba(255,255,255,0.5);
-color: black;
+background-color: rgba(255,255,255,1);
+color: #cac3bb;
 font-size: 24px;
-border: 3px solid black;
+
+}
+
+.button:hover {
+background-color: black;
+color: white;
+font-size: 24px;
+
 }
 
 #our-story p {
@@ -217,13 +354,12 @@ padding-bottom: 50px;
 	
 }
 
+/*
 #cellar-door img {
 	opacity: 0.8;
 }
+*/
 
-#find-us ul{
-margin: 0;
-}
 
 #footer {
 	background-color: black;
@@ -232,6 +368,11 @@ margin: 0;
 
 
 /* ECOMMERCE */
+.breadcrumbs {
+	display: none;
+}
+
+
 .woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary,
 .woocommerce #content div.product div.images{
 	width: 100%;
@@ -253,17 +394,16 @@ margin: 0;
 	margin-right: .9375rem !important;
 }
 .woocommerce-page button.button.alt{
-	background: rgba(255,255,255,0.5);
-	color: black;
+	background: white;
+	color: #cac3bb;
 	text-shadow: none;
-	font-family: 'Quicksand', sans-serif;
-	text-transform: uppercase;
-	border: 2px solid black;
+	
+	border: none;
 
 }
 .woocommerce-page button.button.alt:hover{
-	background: rgba(255,255,255,1);
-	color: black;
+	background: black;
+	color: white;
 	text-shadow: none;
 
 }
@@ -336,6 +476,11 @@ color: white;
 color: black;
 }
 
+.tabs>.active>a {
+color: black;
+text-decoration: underline;
+}
+
 .woocommerce-tabs{
 	overflow:hidden;
 }
@@ -345,3 +490,58 @@ a.anchor{display: block; position: relative; top: -100px; visibility: hidden;}
 	
 	background-color: white;
 }
+
+
+.woocommerce-message-success{
+	background-color: rgba(255,255,255,0.5);
+	width: 95%;
+	margin: auto;
+	padding:10px;
+	margin-bottom: 10px;
+	border-top: 10px  solid;
+}
+.woocommerce-message-success> *{
+	float: right;
+}
+.images>img {
+position: absolute;
+top: 50%;
+transform: translate(0%,-50%);
+border: none;
+box-shadow: none !important;
+width: 100%;
+}
+
+
+
+.content-product-image>a>img:last-child{
+
+width: 100%;
+max-width: 400px;	
+}
+
+@media only screen and (max-width:640px) {
+
+.content-product-text {
+	padding-left: 50px !important;
+	padding-right: 50px !important;
+}
+} /* min-width 641px, medium screens */
+/*
+.content-product-image {position:relative;}
+.content-product-image:after {
+content:"";
+position:absolute;
+width:200%;
+overflow: visible;
+height:100%;
+top:-100px;
+left:0;
+background:url(bg/test.png) no-repeat;
+background-position: center top;
+background-size:100%;
+z-index:-1;
+opacity: 0.8;
+}
+
+*/

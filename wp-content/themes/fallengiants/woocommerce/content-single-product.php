@@ -32,13 +32,16 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 	
 	<?php woocommerce_show_product_images(); ?>
 	
+	<?php 
+		
+	?>
 	</div>
 	<div class="small-12 medium-6 columns">
 		<div class="row single-product-content">
 			<div class="small-12 columns single-product-title">
 				<h1 style="text-transform:uppercase;"><?php get_winery(); ?></h1>
-				<h2><i><?php get_vineyard(); ?></i> <?php get_variety(); ?></h2>
-				<h3><?php get_vintage(); ?></h3>
+				<h2><i><?php get_vineyard(); ?></i> </h2>
+				<h3><?php get_variety(); ?>&nbsp<?php get_vintage(); ?></h3>
 			</div>
 			<div class="small-12 columns single-product-description">
 			<?php>woocommerce_template_single_excerpt();?>

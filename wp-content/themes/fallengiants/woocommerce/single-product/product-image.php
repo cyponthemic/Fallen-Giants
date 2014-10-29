@@ -32,12 +32,15 @@ global $post, $woocommerce, $product;
 			}
 
 			echo apply_filters( 'woocommerce_single_product_image_html', sprintf( '<a href="%s" itemprop="image" class="woocommerce-main-image zoom" title="%s" data-rel="prettyPhoto' . $gallery . '">%s</a>', $image_link, $image_title, $image ), $post->ID );
-
+			if (class_exists('MultiPostThumbnails')) : 
+		MultiPostThumbnails::the_post_thumbnail(get_post_type(), 'bottle-shot');
+		endif;
 		} else {
 
 			echo apply_filters( 'woocommerce_single_product_image_html', sprintf( '<img src="%s" alt="%s" />', wc_placeholder_img_src(), __( 'Placeholder', 'woocommerce' ) ), $post->ID );
 
 		}
+		
 	?>
 
 	<?php do_action( 'woocommerce_product_thumbnails' ); ?>

@@ -28,7 +28,13 @@
 	});
 </script>
    
-  
+  <script>
+  jQuery(document).resize(function ($) {
+  	
+    $(".content-product-image").height($(".content-product-text").height()*1);
+    
+	});
+</script>
 
 	<!-- <script src=" <?php echo get_stylesheet_directory_uri();?>/js/parallax.js"></script> -->
 	<!-- <script>var scene = document.getElementById('scene');	var parallax = new Parallax(scene);	</script>  -->
