@@ -46,17 +46,41 @@ foreach ( $terms as $term ) { echo $term->name; }
 }
 
 function get_wine_title(){
-echo '<h3 class=winery-title>';
+echo '<h2 class=winery-title>';
 get_winery();
 echo '</h3>';
 echo '<h3 class=vineyard-title><i>';
 get_vineyard();
-echo '</i></h3>';
+echo ' Vineyard</i></h3>';
 echo '<h3 class=variety-title>';
-get_variety();
-echo '</h3>';
-echo '<h3 class=vintage-title>';
 get_vintage();
+echo ' ';
+get_variety();
 echo '</h3>';
 }
 /* add_action('woocommerce_before_single_product_summary','get_vintage'); */
+
+if (class_exists('MultiPostThumbnails')) {
+
+new MultiPostThumbnails(array(
+'label' => 'Bottle shot',
+'id' => 'bottle-shot',
+'post_type' => 'product'
+ ) );
+
+ }
+ 
+ 
+ /* Lightbox */
+ 
+ add_filter('the_content', 'my_addlightboxrel');
+function my_addlightboxrel($content) {
+       global $post;
+       $pattern ="/<a(.*?)href=('|\")(.*?).(bmp|gif|jpeg|jpg|png)('|\")(.*?)>/i";
+       $replacement = '<a$1href=$2$3.$4$5 rel="lightbox" title="'.$post->post_title.'"$6>';
+       $content = preg_replace($pattern, $replacement, $content);
+       return $content;
+}
+
+if ( ! isset( $content_width ) )
+    $content_width = 1000;

@@ -32,13 +32,16 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 	
 	<?php woocommerce_show_product_images(); ?>
 	
+	<?php 
+		
+	?>
 	</div>
 	<div class="small-12 medium-6 columns">
 		<div class="row single-product-content">
 			<div class="small-12 columns single-product-title">
 				<h1 style="text-transform:uppercase;"><?php get_winery(); ?></h1>
-				<h2><i><?php get_vineyard(); ?></i> <?php get_variety(); ?></h2>
-				<h3><?php get_vintage(); ?></h3>
+				<h2><i><?php get_vineyard(); ?></i> </h2>
+				<h3><?php get_variety(); ?>&nbsp<?php get_vintage(); ?></h3>
 			</div>
 			<div class="small-12 columns single-product-description">
 			<?php>woocommerce_template_single_excerpt();?>
@@ -59,7 +62,9 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 		</div>
 	<!-- </div> -->
 	</div><!-- .summary -->
+	
 	</div>
+    </div></div>
 	<?php
 		/**
 		 * woocommerce_after_single_product_summary hook
@@ -68,7 +73,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 		 * @hooked woocommerce_upsell_display - 15
 		 * @hooked woocommerce_output_related_products - 20
 		 */
-		do_action( 'woocommerce_after_single_product_summary' );
+		woocommerce_output_product_data_tabs();
 	?>
 
 	<meta itemprop="url" content="<?php the_permalink(); ?>" />
@@ -76,4 +81,4 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 </div><!-- #product-<?php the_ID(); ?> -->
 
 
-<?php do_action( 'woocommerce_after_single_product' ); ?>
+

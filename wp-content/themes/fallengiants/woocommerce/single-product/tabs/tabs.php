@@ -18,10 +18,12 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 $tabs = apply_filters( 'woocommerce_product_tabs', array() );
 
 if ( ! empty( $tabs ) ) : ?>
-	<a class="anchor" id="moreinfo"></a>
-	<div class="woocommerce-tabs">
-		<ul class="tabs">
-			<?php foreach ( $tabs as $key => $tab ) : ?>
+<section  style="width:100%;background-color:white ;padding:50px;">
+	<div class="row">
+		<a class="anchor" id="moreinfo"></a>
+			<div class="woocommerce-tabs ">
+				<ul class="tabs">
+					<?php foreach ( $tabs as $key => $tab ) : ?>
 
 				<li class="<?php echo $key ?>_tab">
 					<a href="#tab-<?php echo $key ?>"><?php echo apply_filters( 'woocommerce_product_' . $key . '_tab_title', $tab['title'], $key ) ?></a>
@@ -37,5 +39,6 @@ if ( ! empty( $tabs ) ) : ?>
 
 		<?php endforeach; ?>
 	</div>
-
+	</div>
+</section>
 <?php endif; ?>

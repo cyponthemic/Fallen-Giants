@@ -39,25 +39,20 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] )
 	$classes[] = 'last';
 */
 ?>
-<div class="row winerow">
-	<div class="large-1 large-offset-1 columns"></div>
-	<!-- <?php do_action( 'woocommerce_before_shop_loop_item' ); ?> -->
-	<div class="large-4  large-offset-1 columns">
+<div class="row winerow" data-equalizer>
+
+	<div class="medium-5 medium-offset-1 content-product-image columns" data-equalizer-watch>
 	<a href="<?php the_permalink(); ?>">
 
-		<?php
-			/**
-			 * woocommerce_before_shop_loop_item_title hook
-			 *
-			 * @hooked woocommerce_show_product_loop_sale_flash - 10
-			 * @hooked woocommerce_template_loop_product_thumbnail - 10
-			 */
-			echo get_the_post_thumbnail(); 
-			/* do_action( 'woocommerce_before_shop_loop_item_title' ); */
+<?php /* echo get_the_post_thumbnail($post->ID,'shop_single',);  */
+			if (class_exists('MultiPostThumbnails')) : 
+		MultiPostThumbnails::the_post_thumbnail(get_post_type(), 'bottle-shot');
+		endif;
 		?>
+
 	</a>
 	</div>
-	<div class="large-4 large-offset-1 columns">
+	<div class="medium-4 content-product-text left columns" data-equalizer-watch>
 		<?php get_wine_title(); ?>
 		
 		<p>
@@ -73,8 +68,7 @@ if ( 0 == $woocommerce_loop['loop'] % $woocommerce_loop['columns'] )
 		?>
 		</p>
 	
-		<a href="<?php the_permalink(); ?>" class="button large-12">ORDER NOW</a>
+		<a href="<?php the_permalink(); ?>" class="button large-12 small-12">Order now</a>
 	<!-- <?php do_action( 'woocommerce_after_shop_loop_item' ); ?> -->
 	</div>
-	<div class="large-1 columns"></div>
 </div>

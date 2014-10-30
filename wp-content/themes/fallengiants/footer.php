@@ -12,7 +12,7 @@
 		<?php endif; ?>
 		<?php if ( has_nav_menu( 'footer-menu' ) ) {
 			echo '<div class="row">';
-			wp_nav_menu( array( 'theme_location' => 'footer-menu', 'menu_class' => 'inline-list', 'container' => 'nav', 'container_class' => 'small-12 medium-12 columns' ) );
+			wp_nav_menu( array( 'theme_location' => 'footer-menu', 'menu_class' => 'list', 'container' => 'nav', 'container_class' => 'small-4 medium-4 columns' ) );
 			echo '</div>';
 		} ?>
 	</footer>
@@ -28,7 +28,32 @@
 	});
 </script>
    
-  
+  <script>
+  jQuery(document).resize(function ($) {
+  	
+    $(".content-product-image").height($(".content-product-text").height()*1);
+    
+	});
+	
+	
+	jQuery(function($) {
+  $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+});
+	
+	
+	
+</script>
 
 	<!-- <script src=" <?php echo get_stylesheet_directory_uri();?>/js/parallax.js"></script> -->
 	<!-- <script>var scene = document.getElementById('scene');	var parallax = new Parallax(scene);	</script>  -->

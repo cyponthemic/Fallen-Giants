@@ -11,7 +11,7 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
-echo '<div class="row">';
+echo '<div class="row breadcrumbs">';
 global $post, $wp_query, $author;
 
 $prepend      = '';
