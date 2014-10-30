@@ -260,8 +260,7 @@ width: 100%;
 display: block;
 height: 1750px;
 overflow: visible;
-border-top: blue 1px solid;
-border-bottom: blue 1px solid;
+
 /* margin-top: -180px; */
 margin-bottom: -780px;
 }
@@ -275,8 +274,7 @@ content: "";
 	width: 100%;
 	top: -600px;
 	z-index: -1;
-	border-top: green 1px solid;
-	border-bottom: green 1px solid;
+
 }
 @media only screen and (min-width:1200px) {
 
