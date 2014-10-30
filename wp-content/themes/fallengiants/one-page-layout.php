@@ -52,15 +52,15 @@ get_header(); ?>
 
 
 </div>
-<div class="bgourstoryend">	</div>
-
+<!-- <div class="bgourstoryend">	</div> -->
+<div class="transitionourwines">	</div>	
 <!-- +++++++++++++++++++++++++
 		
 		OUR-WINES 
 			
 		  +++++++++++++++++++++++++ -->
 		  
-<div class="bgourwines">	</div>		  
+<!-- <div class="bgourwines">	</div>	 -->	  
 <div class="row winescontent">
 	<div id="primary" class="site-content small-12 medium-12 columns">
 
