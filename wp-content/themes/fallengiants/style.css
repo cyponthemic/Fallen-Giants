@@ -240,7 +240,7 @@ height: 632px;
 margin-bottom: -350px;
 background-position: center top;
 }
-@media only screen and (min-width:1200px) {.bgourstory {background-size: 100%;height: 53vw;}} /* min-width 641px, medium screens */
+@media only screen and (min-width:1200px) {.bgourstory {background-size: 100%;height: 53vw;margin-bottom: -30vw;}} /* min-width 641px, medium screens */
 
 .bgourstoryend {
 background-image: url(bg/ourstoryendv2.png);
@@ -259,10 +259,11 @@ position: relative;
 width: 100%;
 display: block;
 height: 1750px;
+overflow: visible;
 border-top: blue 1px solid;
 border-bottom: blue 1px solid;
 /* margin-top: -180px; */
-margin-bottom: -180px;
+margin-bottom: -780px;
 }
 .transitionourwines:after {
 content: "";
@@ -273,16 +274,23 @@ content: "";
 	background-repeat: no-repeat;
 	width: 100%;
 	top: -600px;
-	z-index: -3;
+	z-index: -1;
+	border-top: green 1px solid;
+	border-bottom: green 1px solid;
 }
 @media only screen and (min-width:1200px) {
 
-.transitionourwines:after {background-size: 100%;}
-.transitionourwines {height: 85vw;}
+.transitionourwines:after {background-size: 100%; top: -60vw;}
+.transitionourwines {height: 144vw; margin-bottom: -70vw;}
 
 } /* min-width 641px, medium screens */
+@media only screen and (min-width:1400px) {
+.bgourstory+div {margin-top: 10vw ; margin-bottom: 10vw ; }
+}
 
-
+@media only screen and (min-width:2000px) {
+.transitionourwines {height: 144vw; margin-bottom: -65vw;}
+}
 
 .bgourwines {
 background-image: url(bg/ourwinesV2.png);
@@ -318,13 +326,13 @@ position: absolute;
 background-image: url(bg/cellardoorV2.png);
 background-repeat: no-repeat;
 background-position: center top;
-height: 1000px;
+height: 1100px;
 width: 100%;
 top: 0px;
 z-index: -1;
 }
 @media only screen and (min-width:1200px) {
-.bgcellardoor { margin-bottom: 30vw; }
+.bgcellardoor { margin-bottom: 32vw; }
 }
 
 @media only screen and (min-width:1200px) {
