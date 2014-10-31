@@ -26,7 +26,7 @@
     $("#bghomepage").height($(window).height()*0.9);
     }
 	});
-</script>
+	</script>
    
   <script>
   jQuery(document).resize(function ($) {
